@@ -1,0 +1,2962 @@
+id,key,value,type
+6148281,highway,service,regular
+6148281,service,driveway,regular
+6148281,cfcc,A41,tiger
+6148281,county,Larimer,tiger
+6148281,reviewed,no,tiger
+6174413,name,Rapid Court,regular
+6174413,highway,residential,regular
+6174413,cfcc,A41,tiger
+6174413,tlid,188554108,tiger
+6174413,county,Larimer,tiger
+6174413,source,tiger_import_dch_v0.6_20070809,tiger
+6174413,reviewed,no,tiger
+6174413,name_base,Rapid,tiger
+6174413,name_type,Ct,tiger
+6174413,separated,no,tiger
+7675790,access,private,regular
+7675790,highway,service,regular
+7675790,cfcc,A74,tiger
+7675790,tlid,188717464:188717465,tiger
+7675790,county,Weld,tiger
+7675790,source,tiger_import_dch_v0.6_20070809,tiger
+7675790,reviewed,no,tiger
+7675790,upload_uuid,bulk_upload.pl-43c5bf8c-fdce-4ece-96a3-67fb66cd786d,tiger
+7678765,name,Streetrbird Avenue,regular
+7678765,highway,residential,regular
+7678765,cfcc,A41,tiger
+7678765,county,Weld,tiger
+7678765,reviewed,no,tiger
+7684122,name,Chestnut Street,regular
+7684122,highway,residential,regular
+7684122,cfcc,A41,tiger
+7684122,tlid,188739107:188733972:188669872:188669877,tiger
+7684122,county,Weld,tiger
+7684122,source,tiger_import_dch_v0.6_20070809,tiger
+7684122,reviewed,no,tiger
+7684122,zip_left,80621,tiger
+7684122,name_base,Chestnut,tiger
+7684122,name_type,Street,tiger
+7684122,separated,no,tiger
+7684122,zip_right,80621,tiger
+7689644,name,Cottonwood Lane,regular
+7689644,highway,residential,regular
+7689644,cfcc,A41,tiger
+7689644,tlid,188690843:188690849:188744722,tiger
+7689644,county,Weld,tiger
+7689644,source,tiger_import_dch_v0.6_20070809,tiger
+7689644,reviewed,no,tiger
+7689644,zip_left,80603,tiger
+7689644,name_base,Cottonwood,tiger
+7689644,name_type,Lane,tiger
+7689644,separated,no,tiger
+7689644,zip_right,80603,tiger
+10380023,highway,residential,regular
+10380023,cfcc,A41,tiger
+10380023,tlid,130811026,tiger
+10380023,county,Douglas,tiger
+10380023,source,tiger_import_dch_v0.6_20070809,tiger
+10380023,reviewed,no,tiger
+10380023,separated,no,tiger
+10380023,upload_uuid,bulk_upload.pl-c1a3122b-a4c4-4903-b8cb-aed56cefa025,tiger
+10382278,name,East Dolton Lane,regular
+10382278,highway,residential,regular
+10382278,cfcc,A41,tiger
+10382278,tlid,130818185:130818205:130818208:130818192:130818193:130818198:130818199:130818216:130818217:130818220:130818264:130818223:130818224:130818229:130818230,tiger
+10382278,county,Douglas,tiger
+10382278,source,tiger_import_dch_v0.6_20070809,tiger
+10382278,zip_left,80126,tiger
+10382278,name_base,Dolton,tiger
+10382278,name_type,Way,tiger
+10382278,separated,no,tiger
+10382278,zip_right,80126,tiger
+10382278,upload_uuid,bulk_upload.pl-c1a3122b-a4c4-4903-b8cb-aed56cefa025,tiger
+10382278,name_direction_prefix,S,tiger
+10383434,name,Fairview Drive,regular
+10383434,highway,tertiary,regular
+10383434,county,Douglas,tiger
+10383434,name_base,Fairview,tiger
+10383434,name_type,Drive,tiger
+10384595,name,Private,regular
+10384595,highway,residential,regular
+10384595,cfcc,A41,tiger
+10384595,tlid,130849446,tiger
+10384595,county,Douglas,tiger
+10384595,source,tiger_import_dch_v0.6_20070809,tiger
+10384595,upload_uuid,bulk_upload.pl-c1a3122b-a4c4-4903-b8cb-aed56cefa025,tiger
+10385907,name,Whitehall Lane,regular
+10385907,highway,residential,regular
+10385907,cfcc,A41,tiger
+10385907,tlid,130818755,tiger
+10385907,county,Douglas,tiger
+10385907,source,tiger_import_dch_v0.6_20070809,tiger
+10385907,reviewed,no,tiger
+10385907,zip_left,80126,tiger
+10385907,name_base,Whitehall,tiger
+10385907,name_type,Lane,tiger
+10385907,separated,no,tiger
+10385907,zip_right,80126,tiger
+10387026,name,South Mountain View Road,regular
+10387026,highway,residential,regular
+10387026,cfcc,A41,tiger
+10387026,tlid,130823249,tiger
+10387026,county,Douglas,tiger
+10387026,source,tiger_import_dch_v0.6_20070809,tiger
+10387026,reviewed,no,tiger
+10387026,zip_left,80109,tiger
+10387026,name_base,Mountain View,tiger
+10387026,name_type,Road,tiger
+10387026,separated,no,tiger
+10387026,zip_right,80104,tiger
+10387026,name_direction_prefix,S,tiger
+10388129,name,West Willowick Circle,regular
+10388129,highway,residential,regular
+10388129,cfcc,A41,tiger
+10388129,tlid,130851641,tiger
+10388129,county,Douglas,tiger
+10388129,source,tiger_import_dch_v0.6_20070809,tiger
+10388129,reviewed,no,tiger
+10388129,zip_left,80129,tiger
+10388129,name_base,Willowick,tiger
+10388129,name_type,Circle,tiger
+10388129,separated,no,tiger
+10388129,zip_right,80129,tiger
+10388129,name_direction_prefix,W,tiger
+10389210,name,Shetland Way,regular
+10389210,highway,residential,regular
+10389210,cfcc,A41,tiger
+10389210,tlid,130800778,tiger
+10389210,county,Douglas,tiger
+10389210,source,tiger_import_dch_v0.6_20070809,tiger
+10389210,reviewed,no,tiger
+10389210,name_base,Shetland,tiger
+10389210,name_type,Way,tiger
+10389210,separated,no,tiger
+10389210,upload_uuid,bulk_upload.pl-c1a3122b-a4c4-4903-b8cb-aed56cefa025,tiger
+16960296,foot,yes,regular
+16960296,name,Lake Mary / Lake Ladora Access Road,regular
+16960296,horse,no,regular
+16960296,bicycle,no,regular
+16960296,highway,unclassified,regular
+16960296,surface,paved,regular
+16960296,cfcc,A41,tiger
+16960296,county,Adams,tiger
+16960296,motor_vehicle,yes,regular
+16962635,highway,residential,regular
+16962635,cfcc,A41,tiger
+16962635,tlid,177448251:177448252,tiger
+16962635,county,Adams,tiger
+16962635,source,tiger_import_dch_v0.6_20070809,tiger
+16962635,reviewed,no,tiger
+16962635,separated,no,tiger
+16962635,upload_uuid,bulk_upload.pl-07671c32-b0c0-423d-8d4c-e8e5618258ca,tiger
+16964498,name,Hudson Court,regular
+16964498,highway,residential,regular
+16964498,cfcc,A41,tiger
+16964498,tlid,177408457:177408458,tiger
+16964498,county,Adams,tiger
+16964498,source,tiger_import_dch_v0.6_20070809,tiger
+16964498,reviewed,no,tiger
+16964498,zip_left,80229,tiger
+16964498,name_base,Hudson,tiger
+16964498,name_type,Ct,tiger
+16964498,separated,no,tiger
+16964498,zip_right,80229,tiger
+16965998,name,Kearney Street,regular
+16965998,highway,residential,regular
+16965998,cfcc,A41,tiger
+16965998,county,Adams,tiger
+16965998,reviewed,no,tiger
+16965998,zip_left,80022,tiger
+16965998,name_base,Kearney,tiger
+16965998,name_type,Street,tiger
+16965998,zip_right,80022,tiger
+16967672,name,Grove Way,regular
+16967672,highway,residential,regular
+16967672,cfcc,A41,tiger
+16967672,county,Adams,tiger
+16967672,reviewed,no,tiger
+16967672,zip_left,80031,tiger
+16967672,name_base,Grove,tiger
+16967672,name_type,Way,tiger
+16967672,zip_right,80031,tiger
+16967672,zip_left_1,80030,tiger
+16969254,name,South 16th Avenue,regular
+16969254,highway,residential,regular
+16969254,cfcc,A41,tiger
+16969254,tlid,177348819:177348838,tiger
+16969254,county,Adams,tiger
+16969254,source,tiger_import_dch_v0.6_20070809,tiger
+16969254,reviewed,no,tiger
+16969254,zip_left,80601,tiger
+16969254,name_base,16th,tiger
+16969254,name_type,Avenue,tiger
+16969254,separated,no,tiger
+16969254,zip_right,80601,tiger
+16969254,name_direction_prefix,S,tiger
+16970941,name,East 62nd Place,regular
+16970941,highway,residential,regular
+16970941,cfcc,A41,tiger
+16970941,county,Adams,tiger
+16970941,reviewed,no,tiger
+16970941,zip_left,80022,tiger
+16970941,name_base,62nd,tiger
+16970941,name_type,Place,tiger
+16970941,zip_right,80022,tiger
+16970941,name_direction_prefix,E,tiger
+16972399,name,Jackson Street,regular
+16972399,highway,residential,regular
+16972399,cfcc,A41,tiger
+16972399,county,Adams,tiger
+16972399,reviewed,no,tiger
+16972399,name_base,Jackson,tiger
+16972399,name_type,Street,tiger
+16974101,name,East 135th Place,regular
+16974101,highway,residential,regular
+16974101,cfcc,A41,tiger
+16974101,county,Adams,tiger
+16974101,reviewed,no,tiger
+16974101,zip_left,80241,tiger
+16974101,name_base,135th,tiger
+16974101,name_type,Place,tiger
+16974101,zip_right,80241,tiger
+16974101,name_direction_prefix,E,tiger
+16975647,name,Grain Court,regular
+16975647,highway,residential,regular
+16975647,cfcc,A41,tiger
+16975647,tlid,177458391:177458407,tiger
+16975647,county,Adams,tiger
+16975647,source,tiger_import_dch_v0.6_20070809,tiger
+16975647,reviewed,no,tiger
+16975647,name_base,Grain,tiger
+16975647,name_type,Ct,tiger
+16975647,separated,no,tiger
+16977516,name,Sioux Trail,regular
+16977516,highway,residential,regular
+16977516,cfcc,A41,tiger
+16977516,tlid,177307743,tiger
+16977516,county,Adams,tiger
+16977516,source,tiger_import_dch_v0.6_20070809,tiger
+16977516,reviewed,no,tiger
+16977516,name_base,Sioux,tiger
+16977516,name_type,Trl,tiger
+16977516,separated,no,tiger
+16978772,name,East 118th Court,regular
+16978772,highway,residential,regular
+16978772,cfcc,A41,tiger
+16978772,tlid,177412509,tiger
+16978772,county,Adams,tiger
+16978772,source,tiger_import_dch_v0.6_20070809,tiger
+16978772,reviewed,no,tiger
+16978772,zip_left,80640,tiger
+16978772,name_base,118th,tiger
+16978772,name_type,Ct,tiger
+16978772,separated,no,tiger
+16978772,zip_right,80640,tiger
+16978772,name_direction_prefix,E,tiger
+16980278,name,Perry Court,regular
+16980278,highway,residential,regular
+16980278,cfcc,A41,tiger
+16980278,tlid,177293760,tiger
+16980278,county,Adams,tiger
+16980278,source,tiger_import_dch_v0.6_20070809,tiger
+16980278,reviewed,no,tiger
+16980278,zip_left,80031,tiger
+16980278,name_base,Perry,tiger
+16980278,name_type,Ct,tiger
+16980278,separated,no,tiger
+16980278,zip_right,80031,tiger
+16981604,name,Waterside Lane,regular
+16981604,access,private,regular
+16981604,highway,residential,regular
+16981604,cfcc,A74,tiger
+16981604,county,Broomfield,tiger
+16981604,reviewed,no,tiger
+16981604,name_base,Waterside,tiger
+16981604,name_type,Lane,tiger
+16982533,name,Peregrine Circle,regular
+16982533,highway,residential,regular
+16982533,cfcc,A41,tiger
+16982533,tlid,210036034:210036035:210036023:210036025:210036027:210036029:210040087:210040088,tiger
+16982533,county,Broomfield,tiger
+16982533,source,tiger_import_dch_v0.6_20070809,tiger
+16982533,reviewed,no,tiger
+16982533,zip_left,80020,tiger
+16982533,name_base,Peregrine,tiger
+16982533,name_type,Circle,tiger
+16982533,separated,no,tiger
+16982533,zip_right,80020,tiger
+16983264,name,Cypress Circle,regular
+16983264,highway,residential,regular
+16983264,cfcc,A41,tiger
+16983264,tlid,177759008,tiger
+16983264,county,Broomfield,tiger
+16983264,source,tiger_import_dch_v0.6_20070809,tiger
+16983264,reviewed,no,tiger
+16983264,zip_left,80020,tiger
+16983264,name_base,Cypress,tiger
+16983264,name_type,Circle,tiger
+16983264,separated,no,tiger
+16983264,zip_right,80020,tiger
+16983951,name,South Glencoe Street,regular
+16983951,highway,residential,regular
+16983951,cfcc,A41,tiger
+16983951,tlid,177396691,tiger
+16983951,county,Denver,tiger
+16983951,source,tiger_import_dch_v0.6_20070809,tiger
+16983951,reviewed,no,tiger
+16983951,zip_left,80222,tiger
+16983951,name_base,Glencoe,tiger
+16983951,name_type,Street,tiger
+16983951,separated,no,tiger
+16983951,zip_right,80222,tiger
+16983951,name_direction_prefix,S,tiger
+16984640,name,Young Court,regular
+16984640,oneway,no,regular
+16984640,highway,residential,regular
+16984640,surface,asphalt,regular
+16984640,cfcc,A41,tiger
+16984640,county,Denver,tiger
+16984640,reviewed,no,tiger
+16984640,zip_left,80219,tiger
+16984640,name_base,Young,tiger
+16984640,name_type,Ct,tiger
+16984640,zip_right,80219,tiger
+16985341,name,South Ivan Way,regular
+16985341,highway,residential,regular
+16985341,cfcc,A41,tiger
+16985341,tlid,177328630:177321959:177328634:177328627:177328629,tiger
+16985341,county,Denver,tiger
+16985341,source,tiger_import_dch_v0.6_20070809,tiger
+16985341,reviewed,no,tiger
+16985341,zip_left,80227,tiger
+16985341,name_base,Ivan,tiger
+16985341,name_type,Way,tiger
+16985341,separated,no,tiger
+16985341,zip_right,80227,tiger
+16985341,name_direction_prefix,S,tiger
+16986610,name,South Wisteria Court,regular
+16986610,highway,residential,regular
+16986610,cfcc,A41,tiger
+16986610,tlid,177344044:177344048,tiger
+16986610,county,Denver,tiger
+16986610,source,tiger_import_dch_v0.6_20070809,tiger
+16986610,reviewed,no,tiger
+16986610,zip_left,80237,tiger
+16986610,name_base,Wisteria,tiger
+16986610,name_type,Ct,tiger
+16986610,separated,no,tiger
+16986610,zip_right,80237,tiger
+16986610,name_direction_prefix,S,tiger
+16987909,name,East Warren Drive,regular
+16987909,name_1,Warren Drive,regular
+16987909,highway,residential,regular
+16987909,cfcc,A41,tiger
+16987909,tlid,177343420,tiger
+16987909,county,Denver,tiger
+16987909,source,tiger_import_dch_v0.6_20070809,tiger
+16987909,reviewed,no,tiger
+16987909,zip_left,80224,tiger
+16987909,name_base,Warren,tiger
+16987909,name_type,Drive,tiger
+16987909,separated,no,tiger
+16987909,zip_right,80224,tiger
+16987909,name_base_1,Warren,tiger
+16987909,name_type_1,Drive,tiger
+16987909,name_direction_prefix,E,tiger
+16989035,name,South Trenton Street,regular
+16989035,oneway,no,regular
+16989035,highway,residential,regular
+16989035,surface,asphalt,regular
+16989035,cfcc,A41,tiger
+16989035,county,Denver,tiger
+16989035,reviewed,no,tiger
+16989035,zip_left,80231,tiger
+16989035,name_base,Trenton,tiger
+16989035,name_type,Street,tiger
+16989035,zip_right,80231,tiger
+16989035,name_direction_prefix,S,tiger
+16990469,name,South Kingston Street,regular
+16990469,highway,residential,regular
+16990469,cfcc,A41,tiger
+16990469,tlid,177353986:177343346:177343357:177343388,tiger
+16990469,county,Arapahoe,tiger
+16990469,source,tiger_import_dch_v0.6_20070809,tiger
+16990469,reviewed,no,tiger
+16990469,zip_left,80012,tiger
+16990469,name_base,Kingston,tiger
+16990469,name_type,Street,tiger
+16990469,separated,no,tiger
+16990469,zip_right,80012,tiger
+16990469,name_direction_prefix,S,tiger
+16991601,name,South Ouray Street,regular
+16991601,highway,residential,regular
+16991601,cfcc,A41,tiger
+16991601,tlid,177554666,tiger
+16991601,county,Arapahoe,tiger
+16991601,source,tiger_import_dch_v0.6_20070809,tiger
+16991601,reviewed,no,tiger
+16991601,name_base,Ouray,tiger
+16991601,name_type,Street,tiger
+16991601,separated,no,tiger
+16991601,name_direction_prefix,S,tiger
+16992688,name,East Alabama Place,regular
+16992688,highway,residential,regular
+16992688,cfcc,A41,tiger
+16992688,tlid,177356270,tiger
+16992688,county,Arapahoe,tiger
+16992688,source,tiger_import_dch_v0.6_20070809,tiger
+16992688,reviewed,no,tiger
+16992688,zip_left,80017,tiger
+16992688,name_base,Alabama,tiger
+16992688,name_type,Place,tiger
+16992688,separated,no,tiger
+16992688,zip_right,80017,tiger
+16992688,name_direction_prefix,E,tiger
+16993779,name,South Vine Court,regular
+16993779,highway,residential,regular
+16993779,county,Arapahoe,tiger
+16993779,zip_left,80121,tiger
+16993779,name_base,Vine,tiger
+16993779,name_type,Ct,tiger
+16993779,zip_right,80121,tiger
+16993779,name_direction_prefix,S,tiger
+16995018,name,South Richfield Street,regular
+16995018,highway,residential,regular
+16995018,cfcc,A41,tiger
+16995018,county,Arapahoe,tiger
+16995018,reviewed,no,tiger
+16995018,zip_left,80016,tiger
+16995018,name_base,Richfield,tiger
+16995018,name_type,Street,tiger
+16995018,zip_right,80016,tiger
+16995018,name_direction_prefix,S,tiger
+16996266,name,South Argonne Street,regular
+16996266,highway,residential,regular
+16996266,cfcc,A41,tiger
+16996266,tlid,177356818,tiger
+16996266,county,Arapahoe,tiger
+16996266,source,tiger_import_dch_v0.6_20070809,tiger
+16996266,reviewed,no,tiger
+16996266,zip_left,80017,tiger
+16996266,name_base,Argonne,tiger
+16996266,name_type,Street,tiger
+16996266,separated,no,tiger
+16996266,zip_right,80017,tiger
+16996266,name_direction_prefix,S,tiger
+16997741,name,South Biscay Circle,regular
+16997741,highway,residential,regular
+16997741,cfcc,A41,tiger
+16997741,tlid,177358742:177358736,tiger
+16997741,county,Arapahoe,tiger
+16997741,source,tiger_import_dch_v0.6_20070809,tiger
+16997741,reviewed,no,tiger
+16997741,zip_left,80013,tiger
+16997741,name_base,Biscay,tiger
+16997741,name_type,Circle,tiger
+16997741,separated,no,tiger
+16997741,zip_right,80013,tiger
+16997741,name_direction_prefix,S,tiger
+16999048,name,South Oneida Court,regular
+16999048,highway,residential,regular
+16999048,county,Arapahoe,tiger
+16999048,zip_left,80112,tiger
+16999048,name_base,Oneida,tiger
+16999048,name_type,Ct,tiger
+16999048,name_direction_prefix,S,tiger
+17000589,name,South Ogden Street,regular
+17000589,highway,residential,regular
+17000589,cfcc,A41,tiger
+17000589,tlid,177529862,tiger
+17000589,county,Arapahoe,tiger
+17000589,source,tiger_import_dch_v0.6_20070809,tiger
+17000589,reviewed,no,tiger
+17000589,zip_left,80113,tiger
+17000589,name_base,Ogden,tiger
+17000589,name_type,Street,tiger
+17000589,separated,no,tiger
+17000589,zip_right,80113,tiger
+17000589,name_direction_prefix,S,tiger
+17001908,name,East Phillips Drive,regular
+17001908,highway,residential,regular
+17001908,cfcc,A41,tiger
+17001908,tlid,177541554:177541555:177541483:177541484,tiger
+17001908,county,Arapahoe,tiger
+17001908,source,tiger_import_dch_v0.6_20070809,tiger
+17001908,reviewed,yes,tiger
+17001908,zip_left,80112,tiger
+17001908,name_base,Phillips,tiger
+17001908,name_type,Drive,tiger
+17001908,separated,no,tiger
+17001908,zip_right,80112,tiger
+17001908,name_direction_prefix,E,tiger
+17003477,name,East Ida Place,regular
+17003477,highway,residential,regular
+17003477,cfcc,A41,tiger
+17003477,county,Arapahoe,tiger
+17003477,zip_left,80111,tiger
+17003477,name_base,Ida,tiger
+17003477,name_type,Place,tiger
+17003477,zip_right,80111,tiger
+17003477,name_direction_prefix,E,tiger
+17004985,name,South Kearney Court,regular
+17004985,highway,residential,regular
+17004985,cfcc,A41,tiger
+17004985,tlid,177346245,tiger
+17004985,county,Arapahoe,tiger
+17004985,source,tiger_import_dch_v0.6_20070809,tiger
+17004985,zip_left,80112,tiger
+17004985,name_base,Kearney,tiger
+17004985,name_type,Ct,tiger
+17004985,separated,no,tiger
+17004985,zip_right,80112,tiger
+17004985,name_direction_prefix,S,tiger
+17006413,name,South Walden Street,regular
+17006413,highway,residential,regular
+17006413,cfcc,A41,tiger
+17006413,tlid,177358308,tiger
+17006413,county,Arapahoe,tiger
+17006413,source,tiger_import_dch_v0.6_20070809,tiger
+17006413,reviewed,no,tiger
+17006413,zip_left,80013,tiger
+17006413,name_base,Walden,tiger
+17006413,name_type,Street,tiger
+17006413,separated,no,tiger
+17006413,zip_right,80013,tiger
+17006413,name_direction_prefix,S,tiger
+17007700,name,South Elm Court,regular
+17007700,highway,residential,regular
+17007700,county,Arapahoe,tiger
+17007700,zip_left,80122,tiger
+17007700,name_base,Elm,tiger
+17007700,name_type,Ct,tiger
+17007700,zip_right,80122,tiger
+17007700,name_direction_prefix,S,tiger
+17008978,name,East Nassau Drive,regular
+17008978,highway,residential,regular
+17008978,cfcc,A41,tiger
+17008978,tlid,177369606,tiger
+17008978,county,Arapahoe,tiger
+17008978,source,tiger_import_dch_v0.6_20070809,tiger
+17008978,reviewed,no,tiger
+17008978,zip_left,80013,tiger
+17008978,name_base,Nassau,tiger
+17008978,name_type,Drive,tiger
+17008978,separated,no,tiger
+17008978,name_direction_prefix,E,tiger
+17010201,name,South Revere Way,regular
+17010201,oneway,no,regular
+17010201,highway,living_street,regular
+17010201,surface,paved,regular
+17010201,cfcc,A41,tiger
+17010201,county,Arapahoe,tiger
+17010201,reviewed,no,tiger
+17010201,zip_left,80014,tiger
+17010201,name_base,Revere,tiger
+17010201,name_type,Way,tiger
+17010201,zip_right,80014,tiger
+17010201,name_direction_prefix,S,tiger
+17014061,highway,residential,regular
+17014061,cfcc,A41,tiger
+17014061,tlid,220757256,tiger
+17014061,county,Boulder,tiger
+17014061,source,tiger_import_dch_v0.6_20070809,tiger
+17014061,reviewed,no,tiger
+17014061,separated,no,tiger
+17014061,upload_uuid,bulk_upload.pl-1b7afdac-0ecb-47b2-8901-e595d422ff1f,tiger
+17015744,highway,residential,regular
+17015744,cfcc,A41,tiger
+17015744,tlid,188244334,tiger
+17015744,county,Boulder,tiger
+17015744,source,tiger_import_dch_v0.6_20070809,tiger
+17015744,reviewed,no,tiger
+17015744,separated,no,tiger
+17015744,upload_uuid,bulk_upload.pl-1b7afdac-0ecb-47b2-8901-e595d422ff1f,tiger
+17017346,name,Aaron Place,regular
+17017346,highway,residential,regular
+17017346,cfcc,A41,tiger
+17017346,county,Boulder,tiger
+17017346,reviewed,no,tiger
+17017346,zip_left,80303,tiger
+17017346,name_base,Aaron,tiger
+17017346,name_type,Place,tiger
+17017346,zip_right,80303,tiger
+17018613,name,Ward Street,regular
+17018613,highway,residential,regular
+17018613,surface,unpaved,regular
+17018613,cfcc,A41,tiger
+17018613,county,Boulder,tiger
+17018613,reviewed,no,tiger
+17018613,name_base,Ward,tiger
+17018613,name_type,Street,tiger
+17019837,name,Winger Drive,regular
+17019837,highway,residential,regular
+17019837,cfcc,A41,tiger
+17019837,tlid,188185336,tiger
+17019837,county,Boulder,tiger
+17019837,source,tiger_import_dch_v0.6_20070809,tiger
+17019837,reviewed,no,tiger
+17019837,zip_left,80302,tiger
+17019837,name_base,Winger,tiger
+17019837,name_type,Drive,tiger
+17019837,separated,no,tiger
+17019837,zip_right,80302,tiger
+17021081,highway,residential,regular
+17021081,maxspeed,10 mph,regular
+17021081,name,33rd Street,regular
+17021817,name,Briggs Place,regular
+17021817,highway,residential,regular
+17021817,cfcc,A41,tiger
+17021817,tlid,188194232,tiger
+17021817,county,Boulder,tiger
+17021817,source,tiger_import_dch_v0.6_20070809,tiger
+17021817,reviewed,no,tiger
+17021817,zip_left,80027,tiger
+17021817,name_base,Briggs,tiger
+17021817,name_type,Place,tiger
+17021817,separated,no,tiger
+17021817,zip_right,80027,tiger
+17022597,name,Ellison Place,regular
+17022597,highway,residential,regular
+17022597,cfcc,A41,tiger
+17022597,tlid,188159573,tiger
+17022597,county,Boulder,tiger
+17022597,source,tiger_import_dch_v0.6_20070809,tiger
+17022597,reviewed,no,tiger
+17022597,zip_left,80304,tiger
+17022597,name_base,Ellison,tiger
+17022597,name_type,Place,tiger
+17022597,separated,no,tiger
+17022597,zip_right,80304,tiger
+17023387,name,Hickory Street,regular
+17023387,highway,residential,regular
+17023387,cfcc,A41,tiger
+17023387,tlid,220753027:188174514,tiger
+17023387,county,Boulder,tiger
+17023387,source,tiger_import_dch_v0.6_20070809,tiger
+17023387,reviewed,no,tiger
+17023387,name_base,Hickory,tiger
+17023387,name_type,Street,tiger
+17023387,separated,no,tiger
+17024180,access,private,regular
+17024180,highway,service,regular
+17024180,cfcc,A74,tiger
+17024180,county,Clear Creek,tiger
+17024180,reviewed,no,tiger
+17024933,name,Homestead Road,regular
+17024933,note,frontage,regular
+17024933,highway,tertiary,regular
+17024933,cfcc,A41:A64,tiger
+17024933,tlid,179820440:179820446:179820449:179820459:179820461:179820463:179826536,tiger
+17024933,county,Clear Creek,tiger
+17024933,source,tiger_import_dch_v0.6_20070809,tiger
+17024933,reviewed,no,tiger
+17024933,zip_left,80439,tiger
+17024933,name_base,Homestead,tiger
+17024933,name_type,Road,tiger
+17024933,separated,no,tiger
+17024933,zip_right,80439,tiger
+17025657,highway,residential,regular
+17025657,name,Goatbarn Lane,regular
+17025657,surface,unpaved,regular
+17025657,cfcc,A41,tiger
+17025657,county,Boulder,tiger
+17025657,name_base,Goatbarn,tiger
+17025657,name_type,Lane,tiger
+17025657,reviewed,no,tiger
+17025657,zip_left,80302,tiger
+17025657,zip_right,80302,tiger
+17026426,name,Red Ash Lane,regular
+17026426,highway,residential,regular
+17026426,cfcc,A41,tiger
+17026426,tlid,188192429:188192430,tiger
+17026426,county,Boulder,tiger
+17026426,source,tiger_import_dch_v0.6_20070809,tiger
+17026426,reviewed,no,tiger
+17026426,zip_left,80303,tiger
+17026426,name_base,Red Ash,tiger
+17026426,name_type,Lane,tiger
+17026426,separated,no,tiger
+17026426,zip_right,80303,tiger
+17026426,zip_left_1,80303,tiger
+17027185,name,East Longs Peak Avenue,regular
+17027185,highway,tertiary,regular
+17027185,cfcc,A41,tiger
+17027185,tlid,188156948:188156950:188156940:220753770:220760089:188224936,tiger
+17027185,county,Boulder,tiger
+17027185,source,tiger_import_dch_v0.6_20070809,tiger
+17027185,reviewed,no,tiger
+17027185,name_base,Longs Peak,tiger
+17027185,name_type,Avenue,tiger
+17027185,separated,no,tiger
+17027185,name_direction_prefix,E,tiger
+17045418,highway,residential,regular
+17045418,cfcc,A41,tiger
+17045418,tlid,130875664,tiger
+17045418,county,Elbert,tiger
+17045418,source,tiger_import_dch_v0.6_20070809,tiger
+17045418,reviewed,no,tiger
+17045418,separated,no,tiger
+17045418,upload_uuid,bulk_upload.pl-0fbea9e8-02ec-4426-9eb5-8b1f26339771,tiger
+17053958,highway,track,regular
+17053958,cfcc,A41,tiger
+17053958,county,Gilpin,tiger
+17053958,reviewed,no,tiger
+17055408,name,Shoshoni Road,regular
+17055408,highway,residential,regular
+17055408,cfcc,A41,tiger
+17055408,tlid,186481891:186481892:186482043,tiger
+17055408,county,Gilpin,tiger
+17055408,source,tiger_import_dch_v0.6_20070809,tiger
+17055408,reviewed,no,tiger
+17055408,name_base,Shoshoni,tiger
+17055408,name_type,Road,tiger
+17055408,separated,no,tiger
+17068593,highway,residential,regular
+17068593,cfcc,A41,tiger
+17068593,tlid,177273877,tiger
+17068593,county,Jefferson,tiger
+17068593,source,tiger_import_dch_v0.6_20070809,tiger
+17068593,reviewed,no,tiger
+17068593,separated,no,tiger
+17068593,upload_uuid,bulk_upload.pl-3eb93bd8-cf62-40d7-bbf9-22d075417ce9,tiger
+17069862,name,South Cody Court,regular
+17069862,oneway,no,regular
+17069862,highway,residential,regular
+17069862,surface,asphalt,regular
+17069862,cfcc,A41,tiger
+17069862,county,Jefferson,tiger
+17069862,reviewed,no,tiger
+17069862,zip_left,80226,tiger
+17069862,name_base,Cody,tiger
+17069862,name_type,Ct,tiger
+17069862,zip_right,80226,tiger
+17069862,name_direction_prefix,S,tiger
+17070834,name,South Bertha Court,regular
+17070834,highway,residential,regular
+17070834,cfcc,A41,tiger
+17070834,tlid,177315838,tiger
+17070834,county,Jefferson,tiger
+17070834,source,tiger_import_dch_v0.6_20070809,tiger
+17070834,reviewed,no,tiger
+17070834,zip_left,80465,tiger
+17070834,name_base,Bertha,tiger
+17070834,name_type,Ct,tiger
+17070834,separated,no,tiger
+17070834,zip_right,80465,tiger
+17070834,name_direction_prefix,S,tiger
+17071899,name,West 53rd Avenue,regular
+17071899,highway,residential,regular
+17071899,cfcc,A41,tiger
+17071899,tlid,177287657:177287662:177287709:177287712:177287666:177388982:177287733:177287737:177395613:177287980:177287744,tiger
+17071899,county,Jefferson,tiger
+17071899,source,tiger_import_dch_v0.6_20070809,tiger
+17071899,reviewed,no,tiger
+17071899,zip_left,80002,tiger
+17071899,name_base,53rd,tiger
+17071899,name_type,Avenue,tiger
+17071899,separated,no,tiger
+17071899,zip_right,80002,tiger
+17071899,name_direction_prefix,W,tiger
+17073012,name,Frontage Road,regular
+17073012,note,frontage,regular
+17073012,highway,unclassified,regular
+17073012,cfcc,A64,tiger
+17073012,tlid,177734550:177734546:177734547,tiger
+17073012,county,Jefferson,tiger
+17073012,source,tiger_import_dch_v0.6_20070809,tiger
+17073012,reviewed,no,tiger
+17073012,zip_left,80003,tiger
+17073012,name_base,Frontage,tiger
+17073012,name_type,Road,tiger
+17073012,zip_right,80003,tiger
+17074116,name,South Van Gordon Street,regular
+17074116,highway,residential,regular
+17074116,cfcc,A41,tiger
+17074116,tlid,177733182:177735375:177735376,tiger
+17074116,county,Jefferson,tiger
+17074116,source,tiger_import_dch_v0.6_20070809,tiger
+17074116,zip_left,80127,tiger
+17074116,name_base,Van Gordon,tiger
+17074116,name_type,Street,tiger
+17074116,separated,no,tiger
+17074116,zip_right,80127,tiger
+17074116,name_direction_prefix,S,tiger
+17075211,name,West 67th Place,regular
+17075211,highway,residential,regular
+17075211,cfcc,A41,tiger
+17075211,tlid,177756507,tiger
+17075211,county,Jefferson,tiger
+17075211,source,tiger_import_dch_v0.6_20070809,tiger
+17075211,reviewed,no,tiger
+17075211,zip_left,80004,tiger
+17075211,name_base,67th,tiger
+17075211,name_type,Place,tiger
+17075211,separated,no,tiger
+17075211,zip_right,80004,tiger
+17075211,name_direction_prefix,W,tiger
+17076243,name,West Ohio Drive,regular
+17076243,highway,residential,regular
+17076243,cfcc,A41,tiger
+17076243,tlid,177317717,tiger
+17076243,county,Jefferson,tiger
+17076243,source,tiger_import_dch_v0.6_20070809,tiger
+17076243,reviewed,no,tiger
+17076243,name_base,Ohio,tiger
+17076243,name_type,Drive,tiger
+17076243,separated,no,tiger
+17076243,name_direction_prefix,W,tiger
+17077315,name,West Asbury Circle,regular
+17077315,highway,residential,regular
+17077315,cfcc,A41,tiger
+17077315,tlid,177404373,tiger
+17077315,county,Jefferson,tiger
+17077315,source,tiger_import_dch_v0.6_20070809,tiger
+17077315,reviewed,yes,tiger
+17077315,zip_left,80228,tiger
+17077315,name_base,Asbury,tiger
+17077315,name_type,Circle,tiger
+17077315,separated,no,tiger
+17077315,zip_right,80228,tiger
+17077315,name_direction_prefix,W,tiger
+17078426,name,Iroquois Trail,regular
+17078426,highway,residential,regular
+17078426,cfcc,A41,tiger
+17079354,name,South Newcombe Street,regular
+17079354,oneway,no,regular
+17079354,highway,residential,regular
+17079354,cfcc,A41,tiger
+17079354,county,Jefferson,tiger
+17079354,reviewed,no,tiger
+17079354,name_base,Newcombe,tiger
+17079354,name_type,Street,tiger
+17079354,name_direction_prefix,S,tiger
+17080271,name,Eagle Lane,regular
+17080271,highway,residential,regular
+17080271,cfcc,A41,tiger
+17080271,tlid,177388548,tiger
+17080271,county,Jefferson,tiger
+17080271,source,tiger_import_dch_v0.6_20070809,tiger
+17080271,reviewed,no,tiger
+17080271,zip_left,80470,tiger
+17080271,name_base,Eagle,tiger
+17080271,name_type,Lane,tiger
+17080271,separated,no,tiger
+17080271,zip_right,80470,tiger
+17080271,zip_left_1,80470,tiger
+17080271,zip_right_1,80470,tiger
+17081312,name,Taft Street,regular
+17081312,oneway,no,regular
+17081312,highway,residential,regular
+17081312,surface,asphalt,regular
+17081312,cfcc,A41,tiger
+17081312,county,Jefferson,tiger
+17081312,reviewed,no,tiger
+17081312,zip_left,80215,tiger
+17081312,name_base,Taft,tiger
+17081312,name_type,Street,tiger
+17081312,zip_right,80215,tiger
+17082553,name,Braun Way,regular
+17082553,highway,residential,regular
+17082553,cfcc,A41,tiger
+17082553,tlid,177395803:177395804,tiger
+17082553,county,Jefferson,tiger
+17082553,source,tiger_import_dch_v0.6_20070809,tiger
+17082553,zip_left,80004,tiger
+17082553,name_base,Braun,tiger
+17082553,name_type,Way,tiger
+17082553,zip_right,80004,tiger
+17082553,upload_uuid,bulk_upload.pl-3eb93bd8-cf62-40d7-bbf9-22d075417ce9,tiger
+17083664,name,Crescent Lane,regular
+17083664,highway,residential,regular
+17083664,cfcc,A41,tiger
+17083664,county,Jefferson,tiger
+17083664,reviewed,no,tiger
+17083664,zip_left,80214,tiger
+17083664,name_base,Crescent,tiger
+17083664,name_type,Lane,tiger
+17083664,zip_right,80214,tiger
+17084876,highway,trunk_link,regular
+17086012,name,West 67th Avenue,regular
+17086012,highway,residential,regular
+17086012,cfcc,A41,tiger
+17086012,tlid,177370300:177405574,tiger
+17086012,county,Jefferson,tiger
+17086012,source,tiger_import_dch_v0.6_20070809,tiger
+17086012,reviewed,no,tiger
+17086012,zip_left,80004,tiger
+17086012,name_base,67th,tiger
+17086012,name_type,Avenue,tiger
+17086012,separated,no,tiger
+17086012,zip_right,80004,tiger
+17086012,name_direction_prefix,W,tiger
+17087230,name,South Queen Circle,regular
+17087230,highway,residential,regular
+17087230,cfcc,A41,tiger
+17087230,tlid,177317301,tiger
+17087230,county,Jefferson,tiger
+17087230,source,tiger_import_dch_v0.6_20070809,tiger
+17087230,reviewed,no,tiger
+17087230,zip_left,80226,tiger
+17087230,name_base,Queen,tiger
+17087230,name_type,Circle,tiger
+17087230,separated,no,tiger
+17087230,zip_right,80226,tiger
+17087230,name_direction_prefix,S,tiger
+17088548,name,West 63rd Avenue,regular
+17088548,name_1,63rd Avenue,regular
+17088548,highway,residential,regular
+17088548,cfcc,A41,tiger
+17088548,tlid,177755561,tiger
+17088548,county,Jefferson,tiger
+17088548,source,tiger_import_dch_v0.6_20070809,tiger
+17088548,reviewed,no,tiger
+17088548,name_base,63rd,tiger
+17088548,name_type,Avenue,tiger
+17088548,separated,no,tiger
+17088548,name_base_1,63rd,tiger
+17088548,name_type_1,Avenue,tiger
+17088548,name_direction_prefix,W,tiger
+20199097,ref,D6,regular
+20199097,source,FAA,regular
+20199097,aeroway,taxiway,regular
+28232307,source,bing,regular
+28232307,landuse,reservoir,regular
+33525783,name,Peña Boulevard,regular
+33525783,lanes,2,regular
+33525783,layer,1,regular
+33525783,bridge,yes,regular
+33525783,oneway,yes,regular
+33525783,bicycle,yes,regular
+33525783,highway,motorway,regular
+33525783,maxspeed,55 mph,regular
+34268191,source,yahoo,regular
+34268191,highway,footway,regular
+35308250,highway,path,regular
+35308250,surface,unpaved,regular
+36942882,hgv,designated,regular
+36942882,ref,I 25,regular
+36942882,lanes,4,regular
+36942882,oneway,yes,regular
+36942882,bicycle,no,regular
+36942882,highway,motorway,regular
+36942882,alt_name,South Valley Highway,regular
+36942882,maxspeed,55 mph,regular
+36942882,minspeed,40 mph,regular
+37355956,hgv,designated,regular
+37355956,ref,I 25;US 6;US 85,regular
+37355956,lanes,4,regular
+37355956,layer,1,regular
+37355956,bridge,yes,regular
+37355956,oneway,yes,regular
+37355956,bicycle,no,regular
+37355956,highway,motorway,regular
+37355956,alt_name,South Valley Highway,regular
+37355956,maxspeed,55 mph,regular
+37355956,minspeed,40 mph,regular
+37355956,cfcc,A11,tiger
+37355956,county,Denver,tiger
+37355956,name_base,I-25,tiger
+37355956,name_base_1,Valley,tiger
+37355956,name_base_2,United Streettes Highway 87,tiger
+37355956,name_type_1,Hwy,tiger
+37355956,name_direction_prefix_1,S,tiger
+37813507,ref,CO 88,regular
+37813507,name,South Federal Boulevard,regular
+37813507,lanes,4,regular
+37813507,oneway,no,regular
+37813507,highway,primary,regular
+37813507,surface,asphalt,regular
+37813507,cfcc,A41,tiger
+37813507,county,Arapahoe,tiger
+37813507,reviewed,no,tiger
+37813507,zip_left,80123; 80236,tiger
+37813507,name_base,Federal,tiger
+37813507,name_type,Boulevard,tiger
+37813507,zip_right,80123; 80236,tiger
+37813507,name_direction_prefix,S,tiger
+38545588,name,Westcliff Way,regular
+38545588,highway,residential,regular
+39443355,landuse,reservoir,regular
+40039609,source,NHD,regular
+40039609,natural,water,regular
+40039609,ComID,88867701,NHD
+40039609,FCode,39004,NHD
+40039609,FDate,2003/06/26,NHD
+40039609,FTYPE,LakePond,NHD
+40039609,created_by,polyshp2osm,regular
+40039609,ReachCode,14010001010652,NHD
+40039609,RESOLUTION,High,NHD
+40335416,name,Jim Creek,regular
+40335416,note,Simplified,regular
+40335416,source,NHD_import_v0.3_20090901190903,regular
+40335416,waterway,stream,regular
+40335416,ComID,88857215,NHD
+40335416,FCode,46006,NHD
+40335416,FType,StreeteamRiver,NHD
+40335416,way_id,88857215,NHD
+40335416,attribution,NHD,regular
+40335416,ReachCode,14010001001739,NHD
+40335416,RESOLUTION,High,NHD
+40335416,load,14010001:FlowLine:13:A,SK53_bulk
+40335416,feature_id,00180945,gnis
+40665225,source,Yahoo,regular
+40665225,highway,service,regular
+40665225,service,alley,regular
+41871294,foot,yes,regular
+41871294,name,Saint Vrain Trail,regular
+41871294,bicycle,yes,regular
+41871294,highway,cycleway,regular
+41871294,surface,paved,regular
+42120427,access,private,regular
+42120427,highway,service,regular
+42474876,highway,footway,regular
+42474876,surface,paved,regular
+43008300,foot,yes,regular
+43008300,layer,-1,regular
+43008300,tunnel,yes,regular
+43008300,bicycle,yes,regular
+43008300,highway,footway,regular
+43008300,surface,concrete,regular
+43251489,bicycle,yes,regular
+43251489,foot,yes,regular
+43251489,highway,footway,regular
+43251489,surface,paved,regular
+44038186,highway,path,regular
+44038186,surface,paved,regular
+44166489,highway,path,regular
+44166489,surface,paved,regular
+44415751,name,Club Crest path,regular
+44415751,highway,path,regular
+44415751,surface,paved,regular
+44555691,highway,path,regular
+44555691,surface,paved,regular
+44672256,lcn,yes,regular
+44672256,foot,yes,regular
+44672256,name,Big Drivey Creek Trail,regular
+44672256,bridge,yes,regular
+44672256,bicycle,yes,regular
+44672256,highway,path,regular
+44672256,surface,paved,regular
+44878052,foot,yes,regular
+44878052,name,Cherry Creek Trail,regular
+44878052,layer,1,regular
+44878052,access,yes,regular
+44878052,bridge,yes,regular
+44878052,bicycle,designated,regular
+44878052,highway,cycleway,regular
+44878052,cycleway,track,regular
+44878052,segregated,no,regular
+44878052,motor_vehicle,no,regular
+44946542,name,Church Ranch Road,regular
+44946542,oneway,yes,regular
+44946542,highway,secondary,regular
+45095501,natural,water,regular
+45372036,name,Agricultural Ditch,regular
+45372036,waterway,canal,regular
+45538474,sport,tennis,regular
+45538474,leisure,sports_centre,regular
+45829248,highway,path,regular
+45829248,surface,paved,regular
+45891250,foot,yes,regular
+45891250,name,104th MUP,regular
+45891250,bicycle,yes,regular
+45891250,footway,sidewalk,regular
+45891250,highway,footway,regular
+45891250,surface,paved,regular
+46143421,layer,1,regular
+46143421,bridge,yes,regular
+46226124,name,Community Ditch,regular
+46226124,waterway,drain,regular
+46331154,waterway,drain,regular
+46647961,name,Little Drivey Creek Trail,regular
+46647961,highway,cycleway,regular
+46647961,surface,paved,regular
+46890196,bridge,yes,regular
+46890196,highway,track,regular
+47184534,name,Colo Agri Canal,regular
+47184534,waterway,canal,regular
+47244897,name,Clear Creek Trail,regular
+47244897,bridge,yes,regular
+47244897,highway,cycleway,regular
+47244897,surface,paved,regular
+47790621,name,Meadow Island ditch 2,regular
+47790621,layer,-1,regular
+47790621,tunnel,yes,regular
+47790621,waterway,canal,regular
+48102401,name,Rural ditch,regular
+48102401,tunnel,yes,regular
+48102401,waterway,canal,regular
+48162763,highway,service,regular
+48162763,surface,paved,regular
+48385351,highway,footway,regular
+48385351,surface,paved,regular
+48485683,name,Highland ditch,regular
+48485683,tunnel,yes,regular
+48485683,waterway,canal,regular
+48572744,name,Rockwell ditch,regular
+48572744,tunnel,yes,regular
+48572744,waterway,canal,regular
+49939776,source,Yahoo,regular
+49939776,building,yes,regular
+49996673,building,yes,regular
+50064642,source,yahoo,regular
+50064642,building,yes,regular
+50186177,building,yes,regular
+50595627,building,yes,regular
+51190603,building,yes,regular
+51190603,street,S Columbine Street,addr
+51190603,housenumber,1550,addr
+51381861,building,yes,regular
+51381861,street,S Elizabeth Street,addr
+51381861,housenumber,955,addr
+51832939,leisure,golf_course,regular
+51965891,name,Goldsmith Gulch,regular
+51965891,tunnel,yes,regular
+51965891,waterway,stream,regular
+52054271,building,yes,regular
+52219413,name,Rampart Way,regular
+52219413,lanes,2,regular
+52219413,name_1,Fairmount Drive,regular
+52219413,oneway,no,regular
+52219413,highway,residential,regular
+52219413,surface,asphalt,regular
+52219413,sidewalk,both,regular
+52219413,cfcc,A41,tiger
+52219413,county,Denver,tiger
+52219413,reviewed,no,tiger
+52219413,name_base,Rampart,tiger
+52219413,name_type,Way,tiger
+52219413,name_base_1,Fairmount,tiger
+52219413,name_type_1,Drive,tiger
+52404750,leisure,common,regular
+53256831,highway,service,regular
+53256831,service,parking_aisle,regular
+54780320,name,East 123rd Place,regular
+54780320,source,Yahoo,regular
+54780320,highway,residential,regular
+54780320,surface,asphalt,regular
+54780320,maxspeed,25 mph,regular
+56117630,amenity,school,regular
+56117630,building,yes,regular
+58360249,name,UP (BNSF) Colorado Springs Subdivision MT2,regular
+58360249,usage,main,regular
+58360249,railway,rail,regular
+58360249,operator,UP,regular
+58360249,cfcc,B11,tiger
+58360249,county,Douglas,tiger
+58360249,old_railway_operator,D&RGW,regular
+60010982,highway,path,regular
+60010982,trail_visibility,no,regular
+64295959,source,Yahoo,regular
+64295959,highway,service,regular
+67417225,gauge,1435,regular
+67417225,usage,industrial,regular
+67417225,source,Yahoo,regular
+67417225,railway,rail,regular
+67417225,service,yard,regular
+67417225,electrified,no,regular
+68520034,highway,path,regular
+69347878,highway,path,regular
+72591228,highway,service,regular
+75831234,access,private,regular
+75831234,highway,residential,regular
+79583198,building,yes,regular
+81274702,name,County Road 39,regular
+81274702,highway,residential,regular
+81274702,cfcc,A41,tiger
+81274702,tlid,188739736,tiger
+81274702,county,Weld,tiger
+81274702,source,tiger_import_dch_v0.6_20070809,tiger
+81274702,reviewed,no,tiger
+81274702,name_base,County Road 39,tiger
+81274702,separated,no,tiger
+81274702,upload_uuid,bulk_upload.pl-43c5bf8c-fdce-4ece-96a3-67fb66cd786d,tiger
+82158473,foot,yes,regular
+82158473,name,Silver Fox Trail,regular
+82158473,horse,yes,regular
+82158473,source,GPS  Kiefer3D,regular
+82158473,bicycle,yes,regular
+82158473,highway,cycleway,regular
+82158473,surface,dirt,regular
+82158473,motor_vehicle,no,regular
+83072017,name,Georgetown Village,regular
+83072017,landuse,residential,regular
+84718503,building,yes,regular
+85760841,leisure,park,regular
+86199115,access,private,regular
+86199115,highway,service,regular
+87277697,amenity,parking,regular
+87277697,building,yes,regular
+87277697,disabled,yes,capacity
+87277697,fee,yes,regular
+87277697,parking,multi-storey,regular
+87277697,park_ride,no,regular
+87277697,source,Bing,regular
+88073561,highway,residential,regular
+88608936,highway,footway,regular
+89168378,foot,permissive,regular
+89168378,name,following ditch,regular
+89168378,highway,path,regular
+89602971,name,3rd Street,regular
+89602971,oneway,no,regular
+89602971,highway,residential,regular
+89602971,cfcc,A31,tiger
+89602971,county,Douglas,tiger
+89602971,reviewed,no,tiger
+89602971,name_base,3rd,tiger
+89602971,name_type,Street,tiger
+89602971,name_base_1,Streette Highway 86,tiger
+90126344,highway,service,regular
+90126344,service,parking_aisle,regular
+91530344,name,Geer Canyon Drive,regular
+91530344,bridge,yes,regular
+91530344,highway,residential,regular
+91530344,cfcc,A41,tiger
+91530344,tlid,220760722:188238655:188238658:188238659:220752817:188158361,tiger
+91530344,county,Boulder,tiger
+91530344,source,tiger_import_dch_v0.6_20070809,tiger
+91530344,reviewed,no,tiger
+91530344,zip_left,80302,tiger
+91530344,name_base,Geer Canyon,tiger
+91530344,name_type,Drive,tiger
+91530344,separated,no,tiger
+91530344,zip_right,80302,tiger
+92731348,amenity,parking,regular
+93099291,name,Low Line Canal,regular
+93099291,waterway,canal,regular
+93548908,sport,tennis,regular
+93548908,leisure,pitch,regular
+94835213,highway,service,regular
+94835213,service,alley,regular
+94835213,source,bing,regular
+96675896,oneway,yes,regular
+96675896,highway,service,regular
+96675896,service,driveway,regular
+97656448,access,private,regular
+97656448,highway,service,regular
+97656448,service,driveway,regular
+97656448,surface,concrete,regular
+99428030,name,South Park Line,regular
+99428030,source,1939 USGS topo http://labs.metacarta.com/reCourtifier/map/5479,regular
+99428030,railway,abandoned,regular
+99428030,old_railway_operator,CB&Q,regular
+100554565,building,garage,regular
+102344489,building,stable,regular
+102344489,city,Lafayette,addr
+102344489,postcode,80026,addr
+103455396,city,Denver,addr
+103455396,housenumber,1627,addr
+103455396,postcode,80202,addr
+103455396,street,California Street,addr
+103455396,building,yes,regular
+103455396,levels,9,building
+103455396,name,California Street Parking Garage,regular
+104309642,highway,service,regular
+104309642,service,alley,regular
+105689952,oneway,yes,regular
+105689952,highway,service,regular
+105689952,surface,paved,regular
+107269452,building,yes,regular
+107269452,street,West 64th Avenue,addr
+107269452,postcode,80004,addr
+107269452,housenumber,14715,addr
+108788151,highway,service,regular
+108788151,service,parking_aisle,regular
+111047943,foot,designated,regular
+111047943,name,Elmer's Two Mile Bike Path,regular
+111047943,access,yes,regular
+111047943,bicycle,designated,regular
+111047943,highway,footway,regular
+111047943,surface,concrete,regular
+111047943,motor_vehicle,no,regular
+113528175,building,yes,regular
+116429271,highway,service,regular
+116429271,service,alley,regular
+117438948,horse,no,regular
+117438948,highway,path,regular
+117438948,surface,paved,regular
+119523153,footway,sidewalk,regular
+119523153,highway,footway,regular
+120256356,highway,living_street,regular
+120256356,name,South Versailles Way,regular
+120256356,surface,asphalt,regular
+121636799,foot,designated,regular
+121636799,bicycle,no,regular
+121636799,highway,footway,regular
+121636799,surface,paved,regular
+125942500,highway,service,regular
+125942500,service,parking_aisle,regular
+127703775,source,Bing,regular
+127703775,highway,service,regular
+127703775,service,parking_aisle,regular
+129773347,building,yes,regular
+129773347,city,Denver,addr
+129773347,street,Speer Boulevard,addr
+129773347,postcode,80204,addr
+129773347,housenumber,1450,addr
+130552943,building,yes,regular
+130552943,housenumber,96,addr
+130894359,hgv,designated,regular
+130894359,lit,yes,regular
+130894359,ref,CO 2,regular
+130894359,name,Colorado Boulevard,regular
+130894359,lanes,3,regular
+130894359,oneway,yes,regular
+130894359,highway,primary,regular
+130894359,surface,paved,regular
+130894359,maxspeed,35 mph,regular
+130894359,reviewed,yes,tiger
+130894359,zip_left,80205,tiger
+130894359,zip_right,80207,tiger
+130894359,national_network,yes,hgv
+130894359,hgv:national_network,"CDOT ""Highway Data Explorer""",source
+131360290,name,Greenbelt Trail,regular
+131360290,horse,yes,regular
+131360290,access,yes,regular
+131360290,source,Bing,regular
+131360290,bicycle,yes,regular
+131360290,highway,path,regular
+131360290,surface,gravel,regular
+131360290,designation,Multipurpose Trail,regular
+131360290,motor_vehicle,no,regular
+131564362,name,Streetne House Tr (N),regular
+131564362,horse,yes,regular
+131564362,access,yes,regular
+131564362,source,Bing,regular
+131564362,bicycle,yes,regular
+131564362,highway,bridleway,regular
+131564362,surface,dirt,regular
+131564362,designation,Streetne House Trail (North),regular
+131564362,motor_vehicle,no,regular
+131756485,building,house,regular
+131756485,city,Lafayette,addr
+131756485,street,Apollo Drive,addr
+131756485,country,US,addr
+131756485,postcode,80026,addr
+131756485,housenumber,1265,addr
+132686803,foot,yes,regular
+132686803,name,Streetne House Tr,regular
+132686803,horse,yes,regular
+132686803,layer,1,regular
+132686803,access,yes,regular
+132686803,source,bing,regular
+132686803,bicycle,dismount,regular
+132686803,highway,bridleway,regular
+132686803,surface,sand,regular
+132686803,motor_vehicle,no,regular
+132789642,highway,service,regular
+132964481,highway,tertiary,regular
+132964481,lanes,2,regular
+132964481,maxspeed,40 mph,regular
+132964481,name,Westminster Boulevard,regular
+132964481,oneway,yes,regular
+132964481,cfcc,A41,tiger
+132964481,county,Jefferson,tiger
+132964481,name_base,Westminster,tiger
+132964481,name_type,Boulevard,tiger
+132964481,reviewed,yes,tiger
+132964481,zip_left,80020,tiger
+132964481,zip_right,80020,tiger
+133733165,source,Bing,regular
+133733165,building,apartments,regular
+134119707,landuse,residential,regular
+135697354,barrier,fence,regular
+135697354,material,wood,regular
+136799324,footway,sidewalk,regular
+136799324,highway,footway,regular
+136799324,surface,concrete,regular
+136954645,foot,yes,regular
+136954645,horse,no,regular
+136954645,access,yes,regular
+136954645,source,bing,regular
+136954645,bicycle,yes,regular
+136954645,highway,footway,regular
+136954645,surface,concrete,regular
+136954645,segregated,no,regular
+136954645,motor_vehicle,no,regular
+137067241,foot,yes,regular
+137067241,horse,no,regular
+137067241,access,yes,regular
+137067241,source,bing,regular
+137067241,bicycle,yes,regular
+137067241,highway,footway,regular
+137067241,surface,paving_stones,regular
+137067241,segregated,no,regular
+137067241,motor_vehicle,no,regular
+137189921,foot,yes,regular
+137189921,horse,no,regular
+137189921,layer,1,regular
+137189921,access,yes,regular
+137189921,bridge,yes,regular
+137189921,source,bing,regular
+137189921,bicycle,yes,regular
+137189921,highway,footway,regular
+137189921,surface,paved,regular
+137189921,motor_vehicle,no,regular
+140813038,horse,no,regular
+140813038,access,yes,regular
+140813038,source,bing,regular
+140813038,bicycle,dismount,regular
+140813038,highway,footway,regular
+140813038,surface,concrete,regular
+140813038,segregated,no,regular
+140813038,motor_vehicle,no,regular
+141177133,building,yes,regular
+141177133,city,Lafayette,addr
+141177133,state,CO,addr
+141177133,street,South Public Road,addr
+141177133,country,US,addr
+141177133,postcode,80026,addr
+141177133,housenumber,905,addr
+141897653,foot,yes,regular
+141897653,horse,no,regular
+141897653,access,yes,regular
+141897653,source,bing,regular
+141897653,bicycle,yes,regular
+141897653,highway,footway,regular
+141897653,surface,concrete,regular
+141897653,segregated,no,regular
+141897653,motor_vehicle,no,regular
+142995635,lanes,1,regular
+142995635,oneway,no,regular
+142995635,highway,service,regular
+142995635,service,parking_aisle,regular
+142995635,surface,asphalt,regular
+143192557,access,permissive,regular
+143192557,oneway,no,regular
+143192557,source,bing,regular
+143192557,highway,service,regular
+143192557,service,driveway,regular
+143192557,surface,asphalt,regular
+143663943,source,bing,regular
+143663943,building,retail,regular
+143663943,designation,fast food (pizza),regular
+144358647,oneway,no,regular
+144358647,source,bing,regular
+144358647,highway,service,regular
+144358647,service,driveway,regular
+144358647,surface,asphalt,regular
+145081380,name,12-Mile North,regular
+145081380,source,bing,regular
+145081380,amenity,parking,regular
+145081380,parking,surface,regular
+148748780,building,yes,regular
+148748780,city,Denver,addr
+148748780,street,East 14th Avenue,addr
+148748780,postcode,80218,addr
+148748780,housenumber,903,addr
+149792553,building,house,regular
+149792553,city,Lafayette,addr
+149792553,street,North Fork Drive,addr
+149792553,country,US,addr
+149792553,postcode,80026,addr
+149792553,housenumber,2023,addr
+153674547,name,Copper Crest Condominiums,regular
+153674547,landuse,residential,regular
+157768483,building,house,regular
+157768483,city,Lafayette,addr
+157768483,street,Overland Court,addr
+157768483,country,US,addr
+157768483,postcode,80026,addr
+157768483,housenumber,121,addr
+160689848,barrier,fence,regular
+160689848,material,wood,regular
+162322721,oneway,yes,regular
+162322721,highway,service,regular
+162322721,service,parking_aisle,regular
+162640719,sport,soccer,regular
+162640719,source,bing,regular
+162640719,leisure,pitch,regular
+163015968,par,4,regular
+163015968,ref,1,regular
+163015968,tee,black,regular
+163015968,golf,tee,regular
+163015968,black,434,regular
+163015968,source,bing,regular
+163015968,leisure,pitch,regular
+163015968,handicap,13,regular
+163679464,building,house,regular
+163679464,city,Lafayette,addr
+163679464,state,CO,addr
+163679464,street,South Roosevelt Avenue,addr
+163679464,country,US,addr
+163679464,postcode,80026,addr
+163908924,foot,yes,regular
+163908924,access,yes,regular
+163908924,source,bing,regular
+163908924,bicycle,dismount,regular
+163908924,highway,footway,regular
+163908924,surface,concrete,regular
+163908924,motor_vehicle,no,regular
+164768627,amenity,parking,regular
+167707206,building,house,regular
+167707206,city,Lafayette,addr
+167707206,street,North Bermont Street,addr
+167707206,postcode,80026,addr
+167707206,housenumber,404,addr
+170649001,highway,service,regular
+170649001,service,driveway,regular
+170649001,surface,dirt,regular
+173060407,name,Harris Park Community Center,regular
+173060407,building,yes,regular
+177434080,name,Research Park Greenhouse,regular
+177434080,building,yes,regular
+177434080,operator,University of Colorado Boulder,regular
+177434080,short_name,GH-3,regular
+177434080,description,"Reseach facility, not open for visits.",regular
+177582257,highway,service,regular
+177582257,source,Bing,regular
+177582257,surface,paved,regular
+178180728,amenity,parking,regular
+178402690,source,Bing,regular
+178402690,highway,service,regular
+178865951,source,Bing,regular
+178865951,building,yes,regular
+179685535,foot,yes,regular
+179685535,name,Norfolk Street,regular
+179685535,lanes,2,regular
+179685535,access,yes,regular
+179685535,oneway,no,regular
+179685535,bicycle,yes,regular
+179685535,highway,residential,regular
+179685535,surface,asphalt,regular
+179685535,cycleway,no,regular
+179685535,maxspeed,25 mph,regular
+179685535,motor_vehicle,yes,regular
+180650842,building,house,regular
+180650842,city,Lafayette,addr
+180650842,state,CO,addr
+180650842,street,East Simpson Street,addr
+180650842,postcode,80026,addr
+183331986,source,Bing,regular
+183331986,landuse,residential,regular
+183331986,building,yes,regular
+184315422,source,Bing,regular
+184315422,highway,track,regular
+186969627,highway,service,regular
+188516402,building,yes,regular
+189156041,source,Bing,regular
+189156041,building,yes,regular
+191008884,name,Big Meadow Trail,regular
+191008884,source,Bing;TIGER 2013,regular
+191008884,highway,residential,regular
+192181637,name,South Elm Street,regular
+192181637,oneway,yes,regular
+192181637,highway,residential,regular
+192181637,cfcc,A41,tiger
+192181637,county,Denver,tiger
+192181637,reviewed,no,tiger
+192181637,name_base,Elm,tiger
+192181637,name_type,Street,tiger
+192181637,name_direction_prefix,S,tiger
+192488597,access,private,regular
+192488597,highway,residential,regular
+192864313,building,house,regular
+192864313,city,Lafayette,addr
+192864313,state,CO,addr
+192864313,street,East Emma Street,addr
+192864313,postcode,80026,addr
+194216314,oneway,yes,regular
+194216314,highway,service,regular
+194216314,service,driveway,regular
+194216314,surface,paved,regular
+196773257,source,Bing,regular
+196773257,building,retail,regular
+197882275,building,apartments,regular
+198234373,highway,service,regular
+198234373,service,parking_aisle,regular
+199416733,building,yes,regular
+199416733,city,Denver,addr
+199416733,street,Cherokee Street,addr
+199416733,postcode,80204,addr
+199416733,housenumber,1040,addr
+200186908,building,residential,regular
+200693698,name,Enterprise Ditch,regular
+200693698,waterway,drain,regular
+202341592,source,Bing,regular
+202341592,building,yes,regular
+204319077,source,Bing,regular
+204319077,building,industrial,regular
+204980671,highway,footway,regular
+205677893,source,Bing,regular
+205677893,building,industrial,regular
+206085284,name,East Parking,regular
+206085284,lanes,2,regular
+206085284,oneway,yes,regular
+206085284,highway,unclassified,regular
+206085284,surface,paved,regular
+207519189,name,Blue Ridge Drive,regular
+207519189,oneway,no,regular
+207519189,highway,residential,regular
+207519189,surface,paved,regular
+207629218,highway,service,regular
+207629218,service,parking_aisle,regular
+207657510,highway,residential,regular
+207768665,name,Galactic Place,regular
+207768665,highway,residential,regular
+208505506,highway,service,regular
+208505506,service,parking_aisle,regular
+210238467,building,commercial,regular
+210238467,city,Broomfield,addr
+210238467,state,CO,addr
+210238467,street,Industrial Lane,addr
+210238467,postcode,80020,addr
+210238467,housenumber,3001,addr
+215346348,highway,service,regular
+215346348,service,alley,regular
+216658995,par,4,regular
+216658995,ref,8,regular
+216658995,golf,tee,regular
+216658995,name,T8,regular
+216658995,grass,finely_mown,regular
+216658995,sport,golf,regular
+216658995,length,n,regular
+216658995,source,bing,regular
+216658995,landuse,grass,regular
+217608565,source,bing,regular
+217608565,barrier,fence,regular
+217883332,highway,service,regular
+217883332,service,parking_aisle,regular
+218028332,source,bing,regular
+218028332,natural,wetland,regular
+218250987,source,bing,regular
+218250987,building,house,regular
+218547017,source,Bing,regular
+218547017,building,industrial,regular
+218547017,man_made,tank,regular
+218813254,ref,CR 30 E,regular
+218813254,name,East Quincy Avenue,regular
+218813254,lanes,3,regular
+218813254,name_1,Airline Road,regular
+218813254,oneway,yes,regular
+218813254,source,tiger,regular
+218813254,highway,secondary,regular
+218813254,surface,asphalt,regular
+218813254,alt_name,County Road 30 East,regular
+218813254,sidewalk,right,regular
+218813254,tracktype,grade1,regular
+218813254,lane:both,no_parking,parking
+219042820,oneway,yes,regular
+219042820,source,bing,regular
+219042820,highway,primary_link,regular
+219042820,surface,asphalt,regular
+219476796,oneway,no,regular
+219476796,source,bing,regular
+219476796,highway,service,regular
+219476796,service,parking_aisle,regular
+219476796,surface,asphalt,regular
+219715830,oneway,no,regular
+219715830,source,bing,regular
+219715830,highway,proposed,regular
+219715830,surface,asphalt,regular
+219928145,name,Dunsinane Way,regular
+219928145,highway,residential,regular
+220284947,highway,unclassified,regular
+220284947,lanes,4,regular
+220284947,name,New Memphis Court,regular
+220284947,oneway,no,regular
+220284947,source,bing,regular
+220284947,surface,asphalt,regular
+220284947,cfcc,A41,tiger
+220284947,county,Douglas,tiger
+220519007,name,Discovery Park,regular
+220519007,leisure,park,regular
+220519007,website,http://www.reunionmetro.org,regular
+220519007,operator,Reunion Metro DistriCourt,regular
+220704018,electrified,contaCourt_line,regular
+220704018,frequency,60,regular
+220704018,gauge,1435,regular
+220704018,name,University of Colorado A-Line,regular
+220704018,oneway,yes,regular
+220704018,railway,rail,regular
+220704018,source,http://www.rtd-fastracks.com/ec_8;bing,regular
+220704018,usage,main,regular
+220704018,voltage,25000,regular
+220970785,source,bing,regular
+220970785,waterway,drain,regular
+221294591,foot,yes,regular
+221294591,name,Mitchell Creek Trail,regular
+221294591,access,yes,regular
+221294591,source,bing,regular
+221294591,bicycle,yes,regular
+221294591,highway,cycleway,regular
+221294591,surface,concrete,regular
+221294591,segregated,no,regular
+221294591,motor_vehicle,no,regular
+221532819,amenity,parking,regular
+221532819,capacity,2,regular
+222030370,source,Bing,regular
+222030370,building,yes,regular
+222255265,source,bing,regular
+222255265,amenity,parking,regular
+222255265,parking,surface,regular
+222255265,operator,Berkenkotter Motors,regular
+222723525,foot,yes,regular
+222723525,name,Memmen Ridge Trail,regular
+222723525,horse,no,regular
+222723525,access,yes,regular
+222723525,bicycle,yes,regular
+222723525,highway,cycleway,regular
+222723525,surface,concrete,regular
+222723525,segregated,no,regular
+222723525,motor_vehicle,no,regular
+223102076,name,ACourtive-use Area,regular
+223102076,note,multi-use: soccer/football/baseball/softball,regular
+223102076,source,bing,regular
+223102076,leisure,recreation_ground,regular
+223102076,surface,astroturf,regular
+223578666,source,Bing,regular
+223578666,building,yes,regular
+223633779,source,bing,regular
+223633779,amenity,parking,regular
+223633779,parking,surface,regular
+223633779,operator,La Z Boy,regular
+224067102,source,bing,regular
+224067102,building,roof,regular
+224311077,boat,no,regular
+224311077,source,bing,regular
+224311077,natural,water,regular
+224319744,source,Bing,regular
+224319744,highway,service,regular
+224867230,building,yes,regular
+226663388,area,yes,regular
+226663388,building,yes,regular
+227684939,source,Bing,regular
+227684939,landuse,residential,regular
+228604691,source,Bing,regular
+228604691,highway,service,regular
+228604691,service,parking_aisle,regular
+229069848,name,Saint Elizabeth's School,regular
+229069848,phone,303-322-4209,regular
+229069848,source,Bing,regular
+229069848,amenity,school,regular
+229069848,website,http://stelizabethsdenver.org/,regular
+229069848,alt_name,Street Elizabeths School,regular
+229069848,building,school,regular
+229069848,street,Gaylord Street,addr
+229069848,postcode,80205,addr
+229069848,housenumber,2350,addr
+229370615,foot,yes,regular
+229370615,access,yes,regular
+229370615,source,bing,regular
+229370615,bicycle,yes,regular
+229370615,highway,path,regular
+229370615,surface,gravel,regular
+229370615,motor_vehicle,no,regular
+231111486,name,Southmoor Drive,regular
+231111486,lanes,2,regular
+231111486,oneway,no,regular
+231111486,highway,tertiary,regular
+231111486,surface,paved,regular
+231111486,cfcc,A41,tiger
+231111486,county,Denver,tiger
+231111486,reviewed,no,tiger
+231111486,zip_left,80220,tiger
+231111486,name_base,Southmoor,tiger
+231111486,name_type,Drive,tiger
+231111486,zip_right,80220,tiger
+233189959,highway,residential,regular
+234013329,foot,yes,regular
+234013329,width,1,regular
+234013329,source,GPS  Kiefer3D,regular
+234013329,bicycle,no,regular
+234013329,highway,footway,regular
+234013329,surface,dirt,regular
+234013329,sac_scale,mountain_hiking,regular
+234013329,motor_vehicle,no,regular
+234240024,source,Bing,regular
+234240024,highway,service,regular
+234240024,service,alley,regular
+234385512,source,bing,regular
+234385512,building,retail,regular
+234385512,city,Denver,addr
+234385512,street,Buchtel Boulevard,addr
+234385512,postcode,80210,addr
+234385512,housenumber,3970,addr
+234724143,building,house,regular
+234724143,city,Westminster,addr
+234724143,state,CO,addr
+234724143,street,West 93rd Avenue,addr
+234724143,postcode,80031,addr
+234724143,housenumber,4873,addr
+238270491,source,Bing,regular
+238270491,building,yes,regular
+240338177,building,yes,regular
+242104417,highway,service,regular
+242104417,service,parking_aisle,regular
+242243581,building,yes,regular
+242280143,natural,wood,regular
+242364188,building,yes,regular
+242387102,building,yes,regular
+242413676,building,yes,regular
+242851860,highway,service,regular
+243085657,building,yes,regular
+243246139,name,South Reed Street,regular
+243246139,source,OSM US TIGER 2012 Roads Overlay,regular
+243246139,highway,residential,regular
+245391857,name,South Abilene Street,regular
+245391857,lanes,2,regular
+245391857,oneway,yes,regular
+245391857,highway,tertiary,regular
+245391857,surface,asphalt,regular
+245391857,maxspeed,40 mph,regular
+245391857,cfcc,A41,tiger
+245391857,county,Arapahoe,tiger
+245391857,reviewed,no,tiger
+245391857,zip_left,80014,tiger
+245391857,name_base,Abilene,tiger
+245391857,name_type,Street,tiger
+245391857,zip_right,80014,tiger
+245391857,zip_left_1,80012,tiger
+245391857,name_direction_prefix,S,tiger
+254037193,name,Salto Glades,regular
+254037193,natural,wood,regular
+254037193,type,downhill,piste
+254037193,grooming,no,piste
+254037193,difficulty,expert,piste
+256670158,building,residential,regular
+257046174,highway,path,regular
+257410820,highway,path,regular
+257410820,surface,paved,regular
+258676637,name,Potomac Street,regular
+258676637,oneway,yes,regular
+258676637,highway,residential,regular
+258676637,surface,paved,regular
+258676637,maxspeed,40 mph,regular
+259155736,ref,CO 7,regular
+259155736,name,East 160th Avenue,regular
+259155736,highway,secondary,regular
+259155736,cfcc,A41,tiger
+259155736,county,Adams,tiger
+259155736,reviewed,no,tiger
+259155736,zip_left,80603,tiger
+259155736,name_base,160th,tiger
+259155736,name_type,Avenue,tiger
+259155736,zip_right,80603,tiger
+259155736,name_direction_prefix,E,tiger
+260713912,dogs,leashed,regular
+260713912,bicycle,yes,regular
+260713912,highway,footway,regular
+260713912,surface,unpaved,regular
+262778309,barrier,fence,regular
+263579109,building,house,regular
+263579109,city,Commerce City,addr
+263579109,street,Colorado SR 2,addr
+263579109,postcode,80022,addr
+263579109,housenumber,6546,addr
+264001197,layer,-1,regular
+264001197,tunnel,yes,regular
+264001197,waterway,drain,regular
+264538535,building,house,regular
+264710478,access,private,regular
+264710478,amenity,parking,regular
+264710478,parking,surface,regular
+264710478,city,Boulder,addr
+264710478,street,Aurora Avenue,addr
+264710478,housenumber,2900,addr
+264994954,building,residential,regular
+265160497,water,pond,regular
+265160497,natural,water,regular
+266252120,name,Conoco,regular
+266252120,amenity,fuel,regular
+266252120,building,yes,regular
+266252120,operator,Sam Hill Oil Company,regular
+266252120,city,Brighton,addr
+266252120,street,South Main Street,addr
+266252120,postcode,80601,addr
+266252120,housenumber,725,addr
+266759493,tunnel,yes,regular
+266759493,waterway,drain,regular
+270280324,name,"10,000 E Yale",regular
+270280324,access,private,regular
+270280324,oneway,no,regular
+270280324,source,bing,regular
+270280324,highway,living_street,regular
+270280324,surface,concrete,regular
+271341115,lanes,2,regular
+271341115,oneway,yes,regular
+271341115,source,bing,regular
+271341115,highway,primary_link,regular
+271341115,surface,asphalt,regular
+272209759,source,Bing,regular
+272209759,barrier,fence,regular
+273385520,source,Bing,regular
+273385520,building,office,regular
+273385520,street,East Hampden Avenue,addr
+273385520,postcode,80231,addr
+273385520,housenumber,7555,addr
+274202078,lanes,1,regular
+274202078,oneway,yes,regular
+274202078,source,bing,regular
+274202078,highway,service,regular
+274202078,service,drive-through,regular
+274202078,surface,concrete,regular
+275408481,oneway,no,regular
+275408481,source,bing,regular
+275408481,highway,service,regular
+275408481,service,driveway,regular
+275408481,surface,concrete,regular
+276157577,amenity,parking,regular
+276683132,foot,yes,regular
+276683132,horse,no,regular
+276683132,access,yes,regular
+276683132,source,Bing,regular
+276683132,bicycle,designated,regular
+276683132,highway,cycleway,regular
+276683132,surface,concrete,regular
+276683132,segregated,no,regular
+276683132,motor_vehicle,no,regular
+277615153,barrier,fence,regular
+278146733,sport,basketball,regular
+278146733,source,Bing,regular
+278146733,leisure,pitch,regular
+279044271,foot,designated,regular
+279044271,horse,no,regular
+279044271,access,yes,regular
+279044271,source,bing,regular
+279044271,footway,crossing,regular
+279044271,highway,footway,regular
+279044271,motor_vehicle,no,regular
+279680031,foot,designated,regular
+279680031,horse,no,regular
+279680031,access,yes,regular
+279680031,bicycle,yes,regular
+279680031,footway,crossing,regular
+279680031,highway,footway,regular
+279680031,surface,concrete,regular
+279680031,motor_vehicle,no,regular
+280191900,foot,designated,regular
+280191900,horse,no,regular
+280191900,access,yes,regular
+280191900,source,bing,regular
+280191900,highway,footway,regular
+280191900,surface,paved,regular
+280191900,motor_vehicle,no,regular
+280956898,source,Bing,regular
+280956898,highway,service,regular
+280956898,service,alley,regular
+281748671,layer,1,regular
+281748671,source,Bing,regular
+281748671,building,roof,regular
+282727135,barrier,fence,regular
+283527003,ref,15,regular
+283527003,golf,fairway,regular
+283527003,grass,mown,regular
+283527003,sport,golf,regular
+283527003,source,bing,regular
+283527003,landuse,grass,regular
+283902713,source,bing,regular
+283902713,building,yes,regular
+284751994,source,Bing,regular
+284751994,building,retail,regular
+285165023,barrier,fence,regular
+285827673,ref,3-1,regular
+285827673,golf,fairway,regular
+285827673,grass,mown,regular
+285827673,sport,golf,regular
+285827673,source,bing,regular
+285827673,landuse,grass,regular
+286296287,oneway,no,regular
+286296287,covered,no,regular
+286296287,highway,service,regular
+286296287,service,parking_aisle,regular
+286296287,surface,asphalt,regular
+287002275,source,bing,regular
+287002275,building,yes,regular
+287661171,ref,9,regular
+287661171,golf,bunker,regular
+287661171,sport,golf,regular
+287661171,source,bing,regular
+287661171,natural,beach,regular
+287661171,surface,sand,regular
+288246548,fax,303-695-9424,regular
+288246548,name,Metro Community Providers North Aurora Family Health Services,regular
+288246548,phone,303-360-6276,regular
+288246548,source,Bing,regular
+288246548,amenity,hospital,regular
+288246548,website,http://mcpn.org/north-aurora-family-health-services-nafhs/,regular
+288246548,building,office,regular
+288246548,city,Aurora,addr
+288246548,emergency,no,regular
+288246548,street,Peoria Street,addr
+288246548,postcode,80010,addr
+288246548,housenumber,3292,addr
+288587772,highway,service,regular
+288587772,service,parking_aisle,regular
+289427554,source,Bing,regular
+289427554,highway,service,regular
+289427554,service,alley,regular
+290089127,ref,14,regular
+290089127,oneway,yes,regular
+290089127,source,bing,regular
+290089127,highway,path,regular
+291706332,ref,14,regular
+291706332,golf,fairway,regular
+291706332,sport,golf,regular
+291706332,source,bing,regular
+291706332,landuse,grass,regular
+292475500,building,house,regular
+292755960,highway,service,regular
+292827156,foot,designated,regular
+292827156,source,bing,regular
+292827156,highway,footway,regular
+292827156,surface,paved,regular
+292827156,motor_vehicle,no,regular
+293128386,source,Bing,regular
+293128386,barrier,wall,regular
+293483134,foot,designated,regular
+293483134,horse,no,regular
+293483134,source,bing,regular
+293483134,highway,footway,regular
+293483134,surface,paved,regular
+293483134,motor_vehicle,no,regular
+293940753,phone,303-305-4589,regular
+293940753,source,Bing,regular
+293940753,website,http://www.21fitzsimons.com/,regular
+293940753,building,apartments,regular
+293940753,street,East 22nd Avenue,addr
+293940753,postcode,80045,addr
+293940753,housename,21 Fitzsimons Apartment Homes,addr
+293940753,housenumber,12900,addr
+294469951,foot,designated,regular
+294469951,source,bing,regular
+294469951,highway,footway,regular
+294469951,surface,paved,regular
+294469951,motor_vehicle,no,regular
+294847095,highway,footway,regular
+295100676,highway,footway,regular
+295444810,foot,designated,regular
+295444810,horse,no,regular
+295444810,access,yes,regular
+295444810,source,bing,regular
+295444810,bicycle,yes,regular
+295444810,highway,footway,regular
+295444810,surface,paved,regular
+295444810,motor_vehicle,no,regular
+296384749,leisure,park,regular
+296384749,name,Union Streettion North Plaza,regular
+296836066,source,Bing,regular
+296836066,building,yes,regular
+297305542,oneway,no,regular
+297305542,source,Bing,regular
+297305542,highway,residential,regular
+297305542,surface,asphalt,regular
+297750965,highway,service,regular
+297750965,service,alley,regular
+299788290,layer,-1,regular
+299788290,source,Bing,regular
+299788290,tunnel,yes,regular
+299788290,waterway,stream,regular
+301326361,building,garage,regular
+302352037,source,Bing,regular
+302352037,building,apartments,regular
+302352037,street,Madison Street,addr
+302352037,postcode,80206,addr
+302352037,housenumber,1480,addr
+304700123,boundary,administrative,regular
+304700123,admin_level,6,regular
+304700123,border_type,county,regular
+305539692,highway,service,regular
+305539692,service,parking_aisle,regular
+306690747,building,yes,regular
+306690747,city,Denver,addr
+306690747,street,Ringsby Court,addr
+306690747,postcode,80202,addr
+306690747,housenumber,3457,addr
+307381017,highway,service,regular
+307381017,service,parking_aisle,regular
+307743676,highway,service,regular
+308164803,building,house,regular
+308164803,city,Denver,addr
+308164803,street,Navajo Street,addr
+308164803,postcode,80211,addr
+308164803,housenumber,3459,addr
+308998837,source,Bing,regular
+308998837,building,yes,regular
+309775777,building,yes,regular
+309775777,city,Denver,addr
+309775777,street,West 38th Avenue,addr
+309775777,postcode,80211,addr
+309775777,housenumber,1924,addr
+310459818,landuse,grass,regular
+311216229,landuse,grass,regular
+312140249,natural,tree_row,regular
+312657772,natural,tree_row,regular
+313159223,landuse,grass,regular
+314369253,building,terrace,regular
+314369253,city,Denver,addr
+314369253,street,West 31st Avenue,addr
+314369253,postcode,80211,addr
+314369253,housenumber,2328,addr
+315081907,landuse,grass,regular
+316031700,building,apartments,regular
+316655112,building,apartments,regular
+316946097,building,yes,regular
+317146299,building,apartments,regular
+317439367,access,private,regular
+317439367,amenity,parking,regular
+317439367,name,Lot 144,regular
+317888043,source,Bing,regular
+317888043,barrier,retaining_wall,regular
+318157105,building,yes,regular
+318187022,building,apartments,regular
+318504770,building,apartments,regular
+318780537,landuse,grass,regular
+318911703,highway,service,regular
+318911703,service,parking_aisle,regular
+319054120,source,bing,regular
+319054120,building,yes,regular
+319352899,source,Bing,regular
+319352899,building,yes,regular
+319664429,gauge,1435,regular
+319664429,usage,industrial,regular
+319664429,source,Bing,regular
+319664429,railway,rail,regular
+319664429,service,yard,regular
+319664429,electrified,no,regular
+320052660,building,garage,regular
+320304077,area,yes,regular
+320304077,name,124,regular
+320304077,highway,pedestrian,regular
+320462403,landuse,grass,regular
+320609547,name,South Boulder Creek,regular
+320609547,waterway,river,regular
+320775437,building,apartments,regular
+320909781,name,UP Moffat Tunnel Subdivision MT2,regular
+320909781,gauge,1435,regular
+320909781,usage,main,regular
+320909781,railway,rail,regular
+320909781,operator,BNSF,regular
+320909781,cfcc,B11,tiger
+320909781,electrified,no,regular
+320909781,county,Adams,tiger
+320909781,reviewed,no,tiger
+320909781,name_base,Burlington Northern Santa Fe R,tiger
+321250251,building,house,regular
+321250251,city,Denver,addr
+321250251,street,West 36th Avenue,addr
+321250251,postcode,80211,addr
+321250251,housenumber,2412,addr
+321384178,sport,basketball,regular
+321384178,leisure,pitch,regular
+321641723,lit,yes,regular
+321641723,foot,yes,regular
+321641723,bicycle,yes,regular
+321641723,footway,sidewalk,regular
+321641723,highway,footway,regular
+321776634,highway,footway,regular
+322010642,footway,sidewalk,regular
+322010642,highway,footway,regular
+322400668,landuse,grass,regular
+322642585,building,garage,regular
+323001380,building,apartments,regular
+323175151,building,apartments,regular
+323384284,building,apartments,regular
+323867386,man_made,tower,regular
+323867386,type,cooling,tower
+324282258,NHS,yes,regular
+324282258,hgv,designated,regular
+324282258,ref,US 85,regular
+324282258,name,United Streettes Highway 85,regular
+324282258,lanes,3,regular
+324282258,oneway,yes,regular
+324282258,source,tiger,regular
+324282258,highway,trunk,regular
+324282258,nat_ref,US 85,regular
+324282258,surface,asphalt,regular
+324282258,tracktype,grade1,regular
+324282258,CDOT_route,085C,regular
+324282258,lanes,left|through|through,turn
+324282258,national_network,yes,hgv
+324282258,hgv:national_network,"CDOT ""Highway Data Explorer""",source
+324436420,building,apartments,regular
+324629506,building,yes,regular
+324922636,building,yes,regular
+324922636,levels,2,building
+325335174,lanes,1,regular
+325335174,oneway,1,regular
+325335174,source,Bing,regular
+325335174,highway,trunk_link,regular
+325335174,surface,asphalt,regular
+325335174,tracktype,grade1,regular
+325592170,hgv,designated,regular
+325592170,ref,CO 52,regular
+325592170,name,Mineral Road,regular
+325592170,lanes,3,regular
+325592170,highway,secondary,regular
+325592170,surface,asphalt,regular
+325592170,alt_name,Streette Highway 52,regular
+325592170,tracktype,grade1,regular
+325592170,CDOT_route,052A,regular
+325592170,forward,2,lanes
+325592170,backward,1,lanes
+325592170,lanes:forward,left|through,turn
+325592170,national_network,yes,hgv
+325592170,hgv:national_network,"CDOT ""Highway Data Explorer""",source
+326018452,building,terrace,regular
+326018452,city,Denver,addr
+326018452,street,Larimer Street,addr
+326018452,postcode,80205,addr
+326018452,housenumber,2547,addr
+326104516,highway,service,regular
+326104516,service,parking_aisle,regular
+326176915,building,apartments,regular
+326288371,barrier,fence,regular
+326514398,highway,service,regular
+326514398,service,parking_aisle,regular
+326807412,building,yes,regular
+327025951,building,house,regular
+327025951,city,Denver,addr
+327025951,street,26th Street,addr
+327025951,postcode,80205,addr
+327025951,housenumber,1027,addr
+327158570,highway,service,regular
+327158570,service,parking_aisle,regular
+327302825,building,yes,regular
+327369127,barrier,fence,regular
+327545368,landuse,brownfield,regular
+327545368,city,Denver,addr
+327545368,street,Champa Street,addr
+327545368,postcode,80205,addr
+327545368,housenumber,2347,addr
+327757698,amenity,parking,regular
+327972924,landuse,grass,regular
+328250141,ref,CO 119,regular
+328250141,name,Streette Highway 119,regular
+328250141,lanes,2,regular
+328250141,access,yes,regular
+328250141,oneway,no,regular
+328250141,scenic,yes,regular
+328250141,source,tiger,regular
+328250141,highway,secondary,regular
+328250141,tourism,attraCourtion,regular
+328250141,alt_name,Peak To Peak Highway,regular
+328250141,sidewalk,none,regular
+328250141,tracktype,grade1,regular
+328250141,CDOT_route,119A,regular
+328250141,forward,1,lanes
+328250141,motor_vehicle,yes,regular
+328250141,backward,1,lanes
+328250141,lanes:both,no_parking,parking
+328504839,building,apartments,regular
+328643839,landuse,grass,regular
+328762497,highway,footway,regular
+329031475,highway,footway,regular
+329375293,tunnel,culvert,regular
+329375293,waterway,ditch,regular
+329788193,landuse,grass,regular
+329843523,building,apartments,regular
+329995814,building,apartments,regular
+330170654,building,garage,regular
+330585838,footway,sidewalk,regular
+330585838,highway,footway,regular
+330883617,building,apartments,regular
+331008462,highway,service,regular
+331034093,building,apartments,regular
+331309484,building,garage,regular
+331618655,building,terrace,regular
+331618655,city,Denver,addr
+331618655,street,East 16th Avenue,addr
+331618655,postcode,80203,addr
+331618655,housenumber,605,addr
+332117860,landuse,grass,regular
+332478570,amenity,parking,regular
+332765588,amenity,parking,regular
+333287377,footway,sidewalk,regular
+333287377,highway,footway,regular
+333740872,source,Bing,regular
+333740872,highway,service,regular
+333740872,service,alley,regular
+333740872,surface,concrete,regular
+333970335,highway,service,regular
+333970335,service,parking_aisle,regular
+334243044,access,permissive,regular
+334243044,highway,service,regular
+334243044,service,driveway,regular
+334243044,surface,asphalt,regular
+334334838,highway,path,regular
+334334838,surface,concrete,regular
+334680716,landuse,grass,regular
+335241116,highway,service,regular
+335241116,service,parking_aisle,regular
+335532924,area,yes,regular
+335532924,highway,pedestrian,regular
+335765928,name,Disabled,regular
+335765928,amenity,parking,regular
+335765928,parking,surface,regular
+335765928,capacity,2,regular
+335871612,building,house,regular
+335871612,city,Denver,addr
+335871612,street,Clarkson Street,addr
+335871612,postcode,80218,addr
+335871612,housenumber,1236,addr
+336441723,lit,no,regular
+336441723,name,Broadlands West Baseball Field,regular
+336441723,sport,baseball,regular
+336441723,leisure,pitch,regular
+336864056,landuse,grass,regular
+337089440,oneway,no,regular
+337089440,source,Bing,regular
+337089440,highway,service,regular
+337089440,service,parking_aisle,regular
+337089440,surface,concrete,regular
+337262117,name,Howell ConstruCourtion & Colorado Hardscapes,regular
+337262117,source,Bing,regular
+337262117,building,office,regular
+337262117,city,Denver,addr
+337262117,street,East Harvard Avenue,addr
+337262117,howell,303-696-5800,phone
+337262117,postcode,80231,addr
+337262117,howell,http://www.howellconst.com/,website
+337262117,housenumber,8085,addr
+337498812,footway,sidewalk,regular
+337498812,highway,footway,regular
+337744840,source,Bing,regular
+337744840,barrier,wall,regular
+338080075,landuse,grass,regular
+338371057,highway,path,regular
+338371057,surface,concrete,regular
+338559797,source,Bing,regular
+338559797,barrier,wall,regular
+338713354,source,Bing,regular
+338713354,barrier,fence,regular
+338916657,oneway,no,regular
+338916657,source,Bing,regular
+338916657,highway,service,regular
+338916657,service,parking_aisle,regular
+338916657,surface,asphalt,regular
+339068175,landuse,grass,regular
+339295273,oneway,no,regular
+339295273,source,Bing,regular
+339295273,highway,service,regular
+339295273,service,driveway,regular
+339295273,surface,asphalt,regular
+339462868,source,Bing,regular
+339462868,barrier,fence,regular
+339720229,landuse,grass,regular
+339849164,landuse,grass,regular
+340068269,footway,sidewalk,regular
+340068269,highway,footway,regular
+340252400,landuse,grass,regular
+340423576,building,garage,regular
+340801778,source,Bing,regular
+340801778,building,yes,regular
+341292087,building,yes,regular
+342118749,natural,bare_rock,regular
+342627397,building,garage,regular
+343002078,building,yes,regular
+343002078,city,Denver,addr
+343002078,street,Santa Fe Drive,addr
+343002078,postcode,80204,addr
+343002078,housenumber,905,addr
+343699171,landuse,grass,regular
+344015234,source,Bing,regular
+344015234,highway,track,regular
+344015234,surface,dirt,regular
+344407896,building,house,regular
+344407896,city,Denver,addr
+344407896,street,Mariposa Street,addr
+344407896,postcode,80204,addr
+344407896,housenumber,1122,addr
+344784022,footway,sidewalk,regular
+344784022,highway,footway,regular
+344960543,highway,footway,regular
+345335387,oneway,no,regular
+345335387,source,Bing,regular
+345335387,highway,service,regular
+345335387,service,parking_aisle,regular
+345335387,surface,asphalt,regular
+346109745,amenity,parking,regular
+346895066,highway,service,regular
+347273263,building,residential,regular
+347621309,highway,footway,regular
+348100184,natural,scrub,regular
+349684373,oneway,no,regular
+349684373,source,Bing,regular
+349684373,highway,service,regular
+349684373,service,parking_aisle,regular
+349684373,surface,asphalt,regular
+350541877,highway,path,regular
+351676251,sport,tennis,regular
+351676251,leisure,pitch,regular
+354097848,highway,path,regular
+356395009,building,house,regular
+356798792,building,yes,regular
+357016317,highway,residential,regular
+357942022,building,house,regular
+358646860,water,pond,regular
+358646860,natural,water,regular
+359196705,highway,path,regular
+359196705,surface,gravel,regular
+359911871,highway,service,regular
+360413797,building,residential,regular
+360413797,city,Littleton,addr
+360413797,state,CO,addr
+360413797,street,West Rockland Place,addr
+360413797,postcode,80128,addr
+360413797,levels,2,building
+360413797,housenumber,6828,addr
+360889652,oneway,no,regular
+360889652,highway,service,regular
+360889652,service,driveway,regular
+360889652,surface,asphalt,regular
+361347164,source,Bing,regular
+361347164,barrier,fence,regular
+361436072,name,Disabled,regular
+361436072,amenity,parking,regular
+361436072,parking,surface,regular
+361436072,capacity,2,regular
+361660295,source,Bing,regular
+361660295,natural,scrub,regular
+362424602,name,Tallyns Reach,regular
+362424602,landuse,residential,regular
+362825709,leisure,common,regular
+363646921,name,BBVA Compass Bank,regular
+363646921,amenity,bank,regular
+363646921,building,yes,regular
+363646921,city,Aurora,addr
+363646921,state,CO,addr
+363646921,street,East Aurora Parkway,addr
+363646921,postcode,80016,addr
+363646921,drive_through,yes,regular
+363646921,housenumber,22795,addr
+364250154,amenity,fountain,regular
+364707077,tunnel,yes,regular
+364707077,waterway,drain,regular
+365434485,building,yes,regular
+365776477,name,Walgreens,regular
+365776477,amenity,pharmacy,regular
+365776477,building,yes,regular
+365776477,city,Centennial,addr
+365776477,state,CO,addr
+365776477,street,East Smoky Hill Road,addr
+365776477,postcode,80015,addr
+365776477,drive_through,yes,regular
+365776477,housenumber,20051,addr
+365921509,building,yes,regular
+366142321,amenity,parking,regular
+366142321,surface,paved,regular
+366219859,highway,service,regular
+366514256,name,Alter Street,regular
+366514256,oneway,yes,regular
+366514256,highway,unclassified,regular
+366514256,surface,paved,regular
+366514256,maxspeed,30 mph,regular
+366743872,amenity,parking,regular
+366743872,parking,surface,regular
+366990565,building,yes,regular
+367256734,highway,path,regular
+367903316,amenity,parking,regular
+368308427,building,yes,regular
+368526513,highway,track,regular
+368900878,highway,service,regular
+369190507,lanes,2,regular
+369190507,oneway,no,regular
+369190507,highway,service,regular
+369190507,surface,asphalt,regular
+369559737,atm,yes,regular
+369559737,name,Community Financial Credit Union,regular
+369559737,amenity,bank,regular
+369559737,building,yes,regular
+369559737,city,Broomfield,addr
+369559737,state,CO,addr
+369559737,street,West 119th Avenue,addr
+369559737,postcode,80020,addr
+369559737,drive_through,yes,regular
+369559737,housenumber,6850,addr
+370570931,highway,footway,regular
+371198673,highway,footway,regular
+371710011,footway,crossing,regular
+371710011,highway,footway,regular
+372200197,power,minor_line,regular
+373541451,highway,service,regular
+373541451,service,parking_aisle,regular
+374632207,amenity,parking,regular
+375312117,building,yes,regular
+376621325,name,Baseline Road,regular
+376621325,lanes,3,regular
+376621325,oneway,yes,regular
+376621325,highway,secondary,regular
+376621325,cycleway,lane,regular
+376621325,maxspeed,40 mph,regular
+376621325,cfcc,A41,tiger
+376621325,lanes,left|through|through,turn
+376621325,postal_code,80303,regular
+376621325,county,Boulder,tiger
+376621325,zip_left,80303,tiger
+376621325,name_base,Baseline,tiger
+376621325,name_type,Road,tiger
+376621325,zip_right,80303,tiger
+377544245,building,yes,regular
+378586214,building,yes,regular
+379584880,oneway,yes,regular
+379584880,highway,service,regular
+379584880,service,parking_aisle,regular
+381233136,amenity,shelter,regular
+383038570,footway,crossing,regular
+383038570,highway,footway,regular
+383773877,amenity,parking,regular
+384240476,building,yes,regular
+385074810,landuse,grass,regular
+385310933,landuse,grass,regular
+385397255,foot,designated,regular
+385397255,horse,no,regular
+385397255,access,yes,regular
+385397255,source,Bing,regular
+385397255,bicycle,yes,regular
+385397255,footway,crossing,regular
+385397255,highway,footway,regular
+385397255,surface,concrete,regular
+385397255,motor_vehicle,no,regular
+385688298,building,house,regular
+385688298,city,Denver,addr
+385688298,street,Decatur Street,addr
+385688298,postcode,80211,addr
+385688298,housenumber,2534,addr
+386029110,landuse,grass,regular
+386355557,building,house,regular
+386355557,city,Denver,addr
+386355557,street,Eliot Street,addr
+386355557,postcode,80211,addr
+386355557,housenumber,2112,addr
+386838859,building,garage,regular
+387222812,building,garage,regular
+388222976,building,garage,regular
+388504326,landuse,grass,regular
+388820357,footway,sidewalk,regular
+388820357,highway,footway,regular
+388983425,footway,sidewalk,regular
+388983425,highway,footway,regular
+389072790,footway,sidewalk,regular
+389072790,highway,footway,regular
+389407156,footway,sidewalk,regular
+389407156,highway,footway,regular
+389698105,highway,footway,regular
+390053798,building,garage,regular
+390241578,building,house,regular
+390241578,city,Denver,addr
+390241578,street,North Speer Boulevard,addr
+390241578,postcode,80211,addr
+390241578,housenumber,3124,addr
+390599461,building,garage,regular
+391578361,highway,footway,regular
+392853207,building,yes,regular
+392853207,city,Golden,addr
+392853207,state,CO,addr
+392853207,street,Illinois Street,addr
+392853207,housenumber,1101,addr
+393920904,highway,service,regular
+393920904,service,parking_aisle,regular
+395292238,highway,footway,regular
+397099178,highway,service,regular
+397099178,service,parking_aisle,regular
+397995471,leisure,park,regular
+398631816,highway,service,regular
+399347271,hgv,designated,regular
+399347271,national_network,yes,hgv
+399347271,highway,primary,regular
+399347271,lanes,1,regular
+399347271,maxspeed,45 mph,regular
+399347271,name,28th Street,regular
+399347271,oneway,yes,regular
+399347271,ref,US 36,regular
+399347271,hgv:national_network,"CDOT ""Highway Data Explorer""",source
+399347271,cfcc,A21,tiger
+399347271,county,Boulder,tiger
+399347271,name_base,28th,tiger
+399347271,name_base_1,United Streettes Highway 36,tiger
+399347271,name_type,Street,tiger
+399347271,reviewed,yes,tiger
+399347271,zip_left,80301,tiger
+399347271,zip_right,80301,tiger
+400233953,name,South Table Mountain Trail,regular
+400233953,width,1,regular
+400233953,highway,track,regular
+400233953,surface,dirt,regular
+400233953,sac_scale,hiking,regular
+401633665,footway,crossing,regular
+401633665,highway,footway,regular
+401633665,crossing,zebra,regular
+405116807,highway,service,regular
+407499188,building,yes,regular
+408509297,layer,2,regular
+408509297,source,Bing,regular
+408509297,building,yes,regular
+409287397,highway,service,regular
+409784996,highway,footway,regular
+411357566,power,minor_line,regular
+412861045,source,Bing,regular
+412861045,amenity,parking,regular
+412861045,parking,surface,regular
+413068742,name,West 32nd Avenue,regular
+413068742,lanes,2,regular
+413068742,oneway,no,regular
+413068742,bicycle,designated,regular
+413068742,highway,tertiary,regular
+413068742,surface,asphalt,regular
+413068742,cfcc,A41,tiger
+413068742,county,Jefferson,tiger
+413068742,reviewed,yes,tiger
+413068742,zip_left,80401,tiger
+413068742,name_base,32nd,tiger
+413068742,name_type,Avenue,tiger
+413068742,zip_right,80401,tiger
+413068742,name_direction_prefix,W,tiger
+413351272,waterway,drain,regular
+413449413,ref,AE,regular
+413449413,aeroway,taxiway,regular
+413674597,highway,footway,regular
+414225969,building,house,regular
+414225969,city,Denver,addr
+414225969,street,Wolff Street,addr
+414225969,postcode,80212,addr
+414225969,housenumber,3705,addr
+414472003,landuse,grass,regular
+414889248,landuse,grass,regular
+415276976,highway,service,regular
+415276976,service,parking_aisle,regular
+415727945,building,house,regular
+415727945,city,Denver,addr
+415727945,street,West 36th Place,addr
+415727945,postcode,80212,addr
+415727945,housenumber,4599 #5,addr
+415940251,oneway,yes,regular
+415940251,highway,service,regular
+415940251,service,driveway,regular
+416472773,name,13th Street,regular
+416472773,lanes,2,regular
+416472773,oneway,yes,regular
+416472773,highway,residential,regular
+416472773,cfcc,A41,tiger
+416472773,lanes,left;through|right,turn
+416472773,county,Boulder,tiger
+416472773,reviewed,no,tiger
+416472773,zip_left,80304,tiger
+416472773,name_base,13th,tiger
+416472773,name_type,Street,tiger
+416472773,zip_right,80304,tiger
+416472773,conditional,no @ (Apr-Nov Sa 08:00-14:00; May-Sep We 16:00-20:00),bicycle
+416472773,conditional,no @ (Apr-Nov Sa 08:00-14:00; May-Sep We 16:00-20:00),motor_vehicle
+417271047,building,garage,regular
+417749931,building,house,regular
+417749931,city,Denver,addr
+417749931,street,West 35th Avenue,addr
+417749931,postcode,80211,addr
+417749931,housenumber,3436,addr
+418009848,name,Ash Street,regular
+418009848,oneway,no,regular
+418009848,source,Bing,regular
+418009848,highway,unclassified,regular
+418009848,surface,unpaved,regular
+419230870,waterway,ditch,regular
+420046905,landuse,grass,regular
+420886029,amenity,parking,regular
+422095439,name,Kiowa Classroom,regular
+422095439,building,yes,regular
+422095439,levels,2,building
+422636209,highway,footway,regular
+423050071,building,garage,regular
+423422040,building,house,regular
+423422040,city,Denver,addr
+423422040,street,West Clyde Place,addr
+423422040,postcode,80211,addr
+423422040,housenumber,3046,addr
+423903683,landuse,grass,regular
+424213236,bicycle,yes,regular
+424213236,highway,footway,regular
+424213236,surface,concrete,regular
+424509314,landuse,grass,regular
+425114607,landuse,grass,regular
+425538731,building,garage,regular
+426142189,building,garage,regular
+426810158,landuse,grass,regular
+427147308,highway,service,regular
+427646614,name,East Alameda Avenue,regular
+427646614,lanes,5,regular
+427646614,oneway,yes,regular
+427646614,highway,secondary,regular
+427646614,surface,asphalt,regular
+427646614,cfcc,A41,tiger
+427646614,lanes,left|left|||,turn
+427646614,county,Denver,tiger
+427646614,reviewed,yes,tiger
+427646614,name_base,Alameda,tiger
+427646614,name_type,Avenue,tiger
+427646614,name_direction_prefix,E,tiger
+427676509,hgv,designated,regular
+427676509,ref,CO 121,regular
+427676509,name,Wadsworth Boulevard,regular
+427676509,lanes,6,regular
+427676509,oneway,no,regular
+427676509,source,Bing,regular
+427676509,highway,primary,regular
+427676509,surface,asphalt,regular
+427676509,cfcc,A31,tiger
+427676509,county,Jefferson,tiger
+427676509,forward,3,lanes
+427676509,backward,3,lanes
+427676509,zip_left,80215,tiger
+427676509,name_base,Wadsworth,tiger
+427676509,name_type,Boulevard,tiger
+427676509,zip_right,80033,tiger
+427676509,name_base_1,Streette Highway 121,tiger
+427676509,lanes:forward,left||,turn
+427676509,national_network,yes,hgv
+427676509,hgv:national_network,"CDOT ""Highway Data Explorer""",source
+427689543,name,East County Line Road,regular
+427689543,lanes,4,regular
+427689543,oneway,yes,regular
+427689543,highway,secondary,regular
+427689543,cfcc,A41,tiger
+427689543,lanes,left|||,turn
+427689543,county,Arapahoe,tiger
+427689543,name_base,County Line,tiger
+427689543,name_type,Road,tiger
+427689543,name_direction_prefix,E,tiger
+427695614,name,Washington Street,regular
+427695614,oneway,yes,regular
+427695614,highway,secondary,regular
+427695614,cfcc,A45,tiger
+427695614,county,Adams,tiger
+427695614,reviewed,no,tiger
+427695614,zip_left,80241,tiger
+427695614,name_base,Washington,tiger
+427695614,name_type,Street,tiger
+427701145,hgv,designated,regular
+427701145,ref,CO 88,regular
+427701145,name,West Belleview Avenue,regular
+427701145,lanes,5,regular
+427701145,oneway,no,regular
+427701145,highway,primary,regular
+427701145,surface,asphalt,regular
+427701145,maxspeed,40 mph,regular
+427701145,cfcc,A41,tiger
+427701145,county,Arapahoe,tiger
+427701145,forward,3,lanes
+427701145,backward,2,lanes
+427701145,zip_left,80123,tiger
+427701145,name_base,Belleview,tiger
+427701145,name_type,Avenue,tiger
+427701145,lanes:forward,||right,turn
+427701145,national_network,yes,hgv
+427701145,hgv:national_network,"CDOT ""Highway Data Explorer""",source
+427701145,name_direction_prefix,W,tiger
+427806947,highway,footway,regular
+427821298,NHS,yes,regular
+427821298,hgv,designated,regular
+427821298,ref,US 287;CO 128,regular
+427821298,name,West 120th Avenue,regular
+427821298,lanes,4,regular
+427821298,oneway,yes,regular
+427821298,highway,primary,regular
+427821298,maxspeed,50 mph,regular
+427821298,CDOT_route,287C,regular
+427821298,cfcc,A25:A35,tiger
+427821298,lanes,left|left||,turn
+427821298,county,Adams,tiger
+427821298,reviewed,yes,tiger
+427821298,zip_left,80020,tiger
+427821298,name_base,120th,tiger
+427821298,name_type,Avenue,tiger
+427821298,name_base_1,Streette Highway 128,tiger
+427821298,name_base_2,United Streettes Highway 287,tiger
+427821298,national_network,yes,hgv
+427821298,hgv:national_network,"CDOT ""Highway Data Explorer""",source
+427821298,name_direction_prefix,W,tiger
+427826690,name,Washington Street,regular
+427826690,oneway,yes,regular
+427826690,highway,secondary,regular
+427826690,cfcc,A45,tiger
+427826690,county,Adams,tiger
+427826690,reviewed,no,tiger
+427826690,zip_left,80241,tiger
+427826690,name_base,Washington,tiger
+427826690,name_type,Street,tiger
+427832942,name,East Smoky Hill Road,regular
+427832942,lanes,3,regular
+427832942,oneway,yes,regular
+427832942,highway,secondary,regular
+427832942,seperate,yes,regular
+427832942,lanes,left||,turn
+427832942,county,Arapahoe,tiger
+427832942,name_base,Smoky Hill,tiger
+427832942,name_type,Road,tiger
+427832942,name_direction_prefix,E,tiger
+427857836,name,Lucent Boulevard,regular
+427857836,lanes,5,regular
+427857836,name_1,Highlands Ranch Boulevard,regular
+427857836,oneway,yes,regular
+427857836,highway,secondary,regular
+427857836,surface,asphalt,regular
+427857836,cfcc,A41,tiger
+427857836,lanes,left|left|||,turn
+427857836,county,Douglas,tiger
+427857836,zip_left,80126,tiger
+427857836,name_base,Lucent,tiger
+427857836,name_type,Boulevard,tiger
+427857836,zip_right,80126,tiger
+427857836,name_base_1,Highlands Ranch,tiger
+427857836,name_type_1,Boulevard,tiger
+428407876,foot,designated,regular
+428407876,source,Bing,regular
+428407876,bicycle,yes,regular
+428407876,highway,footway,regular
+428407876,surface,concrete,regular
+429394611,highway,service,regular
+429884229,barrier,retaining_wall,regular
+430198632,building,house,regular
+430198632,city,Denver,addr
+430198632,street,Navajo Street,addr
+430198632,postcode,80211,addr
+430198632,housenumber,4416,addr
+430410791,building,yes,regular
+430808501,building,house,regular
+430808501,city,Denver,addr
+430808501,street,West 44th Avenue,addr
+430808501,postcode,80211,addr
+430808501,housenumber,1341,addr
+430982877,barrier,retaining_wall,regular
+431390667,landuse,grass,regular
+431741183,footway,sidewalk,regular
+431741183,highway,footway,regular
+431976564,highway,footway,regular
+432368166,waterway,ditch,regular
+432526379,landuse,grass,regular
+432973339,hgv,designated,regular
+432973339,ref,CO 119,regular
+432973339,name,Longmont Diagonal Highway,regular
+432973339,lanes,3,regular
+432973339,name_1,Diagonal Highway,regular
+432973339,oneway,yes,regular
+432973339,highway,trunk,regular
+432973339,maxspeed,45 mph,regular
+432973339,cfcc,A35,tiger
+432973339,lanes,left||,turn
+432973339,county,Boulder,tiger
+432973339,reviewed,yes,tiger
+432973339,name_base,Longmont Diagonal,tiger
+432973339,name_type,Hwy,tiger
+432973339,name_base_1,Diagonal,tiger
+432973339,name_base_2,Streette Highway 119,tiger
+432973339,name_type_1,Hwy,tiger
+432973339,national_network,yes,hgv
+432973339,hgv:national_network,"CDOT ""Highway Data Explorer""",source
+434689253,amenity,parking,regular
+435164391,landuse,grass,regular
+435508769,sport,basketball,regular
+435508769,leisure,pitch,regular
+435715760,golf,tee,regular
+435715760,landuse,grass,regular
+435904006,landuse,grass,regular
+436243172,footway,sidewalk,regular
+436243172,highway,footway,regular
+436499599,oneway,no,regular
+436499599,source,Bing,regular
+436499599,highway,service,regular
+436499599,surface,asphalt,regular
+436679545,line,H,regular
+436679545,name,RTD Light Rail,regular
+436679545,gauge,1435,regular
+436679545,oneway,yes,regular
+436679545,railway,light_rail,regular
+436679545,voltage,750,regular
+436679545,frequency,0,regular
+436679545,electrified,contaCourt_line,regular
+436829033,natural,scrub,regular
+437189577,highway,path,regular
+437480205,footway,sidewalk,regular
+437480205,highway,footway,regular
+437757072,landuse,residential,regular
+437757072,name,The Downs,regular
+438535459,highway,footway,regular
+439092507,city,Denver,addr
+439092507,housenumber,4338,addr
+439092507,postcode,80211,addr
+439092507,street,Wyandot Street,addr
+439092507,building,house,regular
+439815467,building,house,regular
+440388651,bicycle,designated,regular
+440388651,cycleway,lane,regular
+440388651,highway,secondary,regular
+440388651,lanes,2,regular
+440388651,name,Central Park Boulevard,regular
+440388651,oneway,yes,regular
+440388651,surface,paved,regular
+441705382,building,house,regular
+442187729,building,garage,regular
+442738121,landuse,grass,regular
+443119742,landuse,grass,regular
+443389737,landuse,grass,regular
+444089512,city,Denver,addr
+444089512,housenumber,2459,addr
+444089512,postcode,80211,addr
+444089512,street,West 40th Avenue,addr
+444089512,building,house,regular
+444493749,landuse,grass,regular
+444779833,building,house,regular
+445128414,landuse,grass,regular
+445696465,landuse,grass,regular
+446268378,bicycle,designated,regular
+446268378,cycleway,lane,regular
+446268378,highway,tertiary,regular
+446268378,lanes,2,regular
+446268378,name,West 1st Avenue,regular
+446268378,oneway,no,regular
+446268378,surface,asphalt,regular
+446268378,cfcc,A41,tiger
+446268378,county,Denver,tiger
+446268378,name_base,1st,tiger
+446268378,name_direction_prefix,W,tiger
+446268378,name_type,Avenue,tiger
+446268378,reviewed,no,tiger
+446268378,zip_left,80219,tiger
+446268378,zip_right,80219,tiger
+446912856,highway,footway,regular
+447415710,landuse,grass,regular
+447932768,highway,service,regular
+447932768,oneway,yes,regular
+447932768,service,driveway,regular
+448044934,highway,service,regular
+448044934,service,parking_aisle,regular
+448234230,highway,service,regular
+448234230,oneway,yes,regular
+448234230,service,parking_aisle,regular
+448563913,highway,service,regular
+448563913,service,driveway,regular
+448845162,building,garage,regular
+449120217,highway,service,regular
+449120217,service,driveway,regular
+449547863,barrier,fence,regular
+450350500,barrier,fence,regular
+451567635,building,garage,regular
+451977662,housenumber,191,addr
+451977662,postcode,80516,addr
+451977662,street,Pear Lake Way,addr
+451977662,building,house,regular
+451977662,levels,2,building
+452265160,landuse,grass,regular
+452845231,landuse,grass,regular
+453025845,highway,service,regular
+453025845,tunnel,building_passage,regular
+453432691,landuse,grass,regular
+454156682,building,garage,regular
+454735995,housenumber,228,addr
+454735995,postcode,80516,addr
+454735995,street,Highlands Circle,addr
+454735995,building,house,regular
+454735995,levels,2,building
+455195611,landuse,grass,regular
+455895974,landuse,grass,regular
+456499052,building,yes,regular
+457326392,natural,grassland,regular
+458204725,highway,footway,regular
+458728621,building,house,regular
+459401441,landuse,grass,regular
+460434148,building,yes,regular
+461268100,landuse,grass,regular
+462022875,footway,sidewalk,regular
+462022875,highway,footway,regular
+462893862,natural,scrub,regular
+463551370,landuse,grass,regular
+464108594,highway,footway,regular
